@@ -24,7 +24,7 @@ export default function BscMain2() {
           <tbody style={{borderColor : 'gray'}}>
             {[1,2,3,4,5,6].map((ind)=>(
               <tr style={{color:theme.color}}>
-                <td className="d-flex"><button type="button" className="btn" style={{backgroundColor : theme.backgroundColor}}>Bk</button> <p className="ms-1"><span className="text-primary">20957198</span><br/> 11 sec ago</p></td>
+                <td className="d-flex"><button type="button" className={`btn ${isDark ? 'bgDark' : 'bgLight'}`} >Bk</button> <p className="ms-1"><span className="text-primary">20957198</span><br/> 11 sec ago</p></td>
                 <td><p>Validated By <span className="text-primary">Validator: HashQuark</span> </p>97 txns in 3 secs</td>
                 <td>0.07791 BNB</td>
               </tr>
@@ -38,20 +38,20 @@ export default function BscMain2() {
           <table className="table">
           <thead>
           <tr style={{border:"none",color:theme.color}}>
-            <div className="">Letast Block</div>    
+            <div className="">Letast Transactions</div>    
           </tr>
           </thead>
           <tbody style={{borderColor : 'gray'}}>
             {[1,2,3,4,5,6].map((ind)=>(
               <tr style={{color:theme.color}}>
-                <td className="d-flex"><button type="button" className="btn" style={{backgroundColor : theme.backgroundColor}}>Tx</button> <p className="ms-1"><span className="text-primary">20957198</span><br/> 11 sec ago</p></td>
+                <td className="d-flex"><button type="button" className={`btn rounded-circle ${isDark ? 'bgDark' : 'bgLight'}`}>Tx</button> <p className="ms-1"><span className="text-primary">20957198</span><br/> 11 sec ago</p></td>
                 <td><p>Validated By <span className="text-primary">Validator: HashQuark</span> </p>97 txns in 3 secs</td>
                 <td>0.07791 BNB</td>
               </tr>
             ))}
             </tbody>
           </table>
-          <Button className='w-100 btn btn-outline-info'>View All Blocks</Button>
+          <Button className='w-100 btn btn-outline-info'>View All Transactions</Button>
         
         </div>
         

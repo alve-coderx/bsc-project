@@ -10,13 +10,13 @@ const BsxSearchBar = () => {
          <form style={{ marginRight: 20 }} className="d-flex container-fluid">
                 <div className={`rounded-1 d-flex justify-content-around align-items-center ${isDark ? "btn-dark" : "btn-light"}`} style={{width:"100px"}} type="submit">
                 <NavDropdown title="All Filters" id="basic-nav-dropdown" className={`${isDark ? "bscDroplight" : "bscDropdark"} `}>
-                  <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-                  <NavDropdown.Item href="#action/3.2">
+                  <NavDropdown.Item href="#action/3.1" style={{color:"black"}}>Action</NavDropdown.Item>
+                  <NavDropdown.Item href="#action/3.2" style={{color:"black"}}>
                     Another action
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+                  <NavDropdown.Item href="#action/3.3" style={{color:"black"}}>Something</NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="#action/3.4">
+                  <NavDropdown.Item href="#action/3.4" style={{color:"black"}}>
                     Separated link
                   </NavDropdown.Item>
                 </NavDropdown>
