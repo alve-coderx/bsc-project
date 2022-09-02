@@ -15,7 +15,7 @@ import { ThemeContext } from "../Context/theme";
 export default function BscHeading() {
   const [{isDark}] = useContext(ThemeContext);
   return (
-    <div className="container2" style={{height:'25vh'}}>
+    <div className="container2 d-flex" style={{height:'25vh'}}>
       <Row className="align-items-center">
           <Col className="col-lg-7">
             <h2 className="text-warning">
