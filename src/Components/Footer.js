@@ -20,7 +20,7 @@ export default function Footer() {
                 style={{ marginBottom: "10px", marginLeft: "25px" }}
               ></img>
               <p className="footer_header">Powered by Binance Chain</p>
-              <p onClick={toggleTheme} className="text-light px-2 py-1 border rounded-circle ms-3">
+              <p onClick={toggleTheme} style={{cursor:"pointer"}} className="text-light px-2 py-1 border rounded-circle ms-3">
                 {isDark ? <FiSun/> : <FiMoon/>}
               </p>              
             </div>

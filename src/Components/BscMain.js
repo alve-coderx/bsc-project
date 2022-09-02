@@ -14,7 +14,7 @@ export default function BscMain() {
     setShowCirculatingCap(!showCirculatingCap);
 
   return (
-    <Container fluid className="rounded shadow mb-5" style={{backgroundColor : theme.backgroundColor}}>
+    <Container fluid className="rounded shadow mb-3" style={{backgroundColor : theme.backgroundColor}}>
       <Row className="">
         <Col className="col-lg-4 col-md-12 col-sm-12 col-12 p-3">
           <div className="d-flex">

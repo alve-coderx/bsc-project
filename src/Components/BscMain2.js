@@ -12,9 +12,9 @@ export default function BscMain2() {
   const [{theme,isDark},toggleTheme] = useContext(ThemeContext)
   const [selected, setSelected] = useState("transfers");
   return (
-    <Container fluid style={{backgroundColor:theme.mainbg}} className='pb-5 d-flex justify-content-center'>
+    <Container fluid className='p-5 m-1 d-flex justify-content-center'>
         <Row className="col-12 d-flex justify-content-around">
-        <div className="table-responsive col-lg-6">
+        <div className="table-responsive col-lg-6" style={{backgroundColor:theme.mainbg , width:"900px"}}>
           <table className="table">
           <thead>
           <tr style={{border:"none",color:theme.color}}>
@@ -34,7 +34,7 @@ export default function BscMain2() {
           <Button className='w-100 btn btn-outline-info'>View All Blocks</Button>
         
         </div>
-        <div className="table-responsive col-lg-6">
+        <div className="table-responsive col-lg-6" style={{backgroundColor:theme.mainbg, width:"900px"}}>
           <table className="table">
           <thead>
           <tr style={{border:"none",color:theme.color}}>
