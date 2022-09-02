@@ -1,0 +1,5012 @@
+[
+  {
+    "holderAddress": "0x000000000000000000000000000000000000dead",
+    "balance": 0.589530797482217,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x000000001ae96d8a9eb6de7e7066b155df6cc794",
+    "balance": 1e-18,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x00000000e25a80101a83383023e8426f95ff88f3",
+    "balance": 1e-18,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x00003aaa9eb61250a2793d66200891ee8efdc959",
+    "balance": 1e-18,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0000606ec42c2f4673b8a0e12c59451bfdcd8502",
+    "balance": 1e-18,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0011392ffde97aa18f8c7467f79cba71889e4b3e",
+    "balance": 791.300752873084,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x00336049d3caec9675281bdfdab1210e8111910c",
+    "balance": 2608.42,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0041bd35e4c3244476feb233edbf1da331f91878",
+    "balance": 1096.85,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x005dd995fb1e18c464995fbcfb7502cf421b0035",
+    "balance": 458,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0114578d260a4c6b7a2a84d84f93fb73b75fca53",
+    "balance": 745781.951446896,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0156d7cb2b8da080ceb991609c75699aae099ca5",
+    "balance": 1354.45957122192,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x015900e8a9ff62cb87cd43f23a9c15e6f5bc7dc9",
+    "balance": 14.2141823621189,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x017b99adfe2f3fdf1ce3e3704469aac75aa7ea28",
+    "balance": 174307.938464563,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x01a80eb4f5d10b54ef39d55c7999a005ecbb96b4",
+    "balance": 18705.9202227498,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x01c2f4e28cd50f1da8feb19a051506db15ab5dec",
+    "balance": 12345.2085277402,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x01c609a34ec457aa301d9f1ed5ef4c698bcc37cf",
+    "balance": 4442.64933817323,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x01daab3d40bdda5b8125c4aecbaef6ee2f262efa",
+    "balance": 260294.59521027,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x01fa16ca7967ab488560f02615c49303e5b7a086",
+    "balance": 3386.88064,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x027f38d52b56a9a0b33369e8d92cc86e05ffd943",
+    "balance": 503668.852783307,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x02ad56758fef56099cf57531d0c97bb1aa1f076e",
+    "balance": 696653.026031013,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0373e141153c6602cc87414ccd67a6d0e9ef2559",
+    "balance": 0.000999989642325588,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x03ab4ddd251de39eb452b5488b08438595760c6d",
+    "balance": 44860.6381894326,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x03e117217a92b4b7a8cb818f76d56835885c9cae",
+    "balance": 3205.297,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x04315d18bd656958542173c6663a8859ec917c9c",
+    "balance": 451.39,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x047fa8ed527717962a5cf8b429b25fd640bc8158",
+    "balance": 19220.13,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0485158a393e745d5353a64cb6d5fcd616f6cf6a",
+    "balance": 2615.87824048776,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x04bdfe9f6dd77131b8d9a749ac645f2d1e6e226a",
+    "balance": 332,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x04ec4630c0756df8e8efd4bf3cd2c1a0b1e77346",
+    "balance": 570.342247281902,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x050064ef5f7920c31f85c95d49715d4a01176e48",
+    "balance": 0.725939067243783,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x050d221f52d825cdf6214ef5d28c28935b3431e0",
+    "balance": 400,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x05f0fdd0e49a5225011fff92ad85cc68e1d1f08e",
+    "balance": 3368433.44835524,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x06c497e14ed4345cf95b939815bb25a06d6baf4c",
+    "balance": 4854.1853,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x071d5448ac88d1f18d307e97658d35e47d9f74a2",
+    "balance": 150000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x071fe6456f926722b2731087395a5335612269fd",
+    "balance": 2074.85267333952,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x073791c53abf14d4dcfa135fb1e4fe00561848e3",
+    "balance": 64300.104607,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x076329824f85ad4b726e929f2f52004f2716b10a",
+    "balance": 1926.43264861044,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x077a19f3afb7d048dcbf6edc04deb7e599ecc21c",
+    "balance": 14124.7957619305,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x07b5ac17cea37b8b9e6b9a59682c5774d9196875",
+    "balance": 1341497.2494932,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x07ded332441d0facca16f8980e058b836d67ee83",
+    "balance": 370000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x087ddfbf67ae85a0cf15118486a0d9f02168c43c",
+    "balance": 28.9668635891714,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x08e4d1ac457677de8c0f4c5b77f28eb9c98fba14",
+    "balance": 80704.61395623,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0909822af5e2aebbf52e557097617024a1aee9b1",
+    "balance": 39.5318786444718,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0957e08cdbbc0e99ad1b2874a88af2133b5a4d42",
+    "balance": 100000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x09babe4052bf5761f662a90a71ec87bb181889d7",
+    "balance": 12.0977243540079,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x09c0e7d6c97b942a06361bed21a1f4224d7988f5",
+    "balance": 128985.504203796,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x09ec4a0b65437633d4d62d7fea838e36d308827a",
+    "balance": 3313.55217836772,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x09f0d75524ce6086812cde8c762db9dffc1fb11f",
+    "balance": 390.086573180307,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0a462ae6613ca1ae4dabc933889354821cc88cd8",
+    "balance": 5.43602814246372,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0a50e89ca9426cb9c4ccc7a4e115e8b77f2489b0",
+    "balance": 25646.8745174737,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0a9393fb0785407144c16696b0a9ad0d7f58eaec",
+    "balance": 200,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0b2320284a7e7b3c3ad38ab8a161abaaa88b2f64",
+    "balance": 60216.5688949679,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0b2479ca8764453acef996c2cc1ec9ea7e36d4a2",
+    "balance": 12188.95,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0b32b312d0372db83e9aa001c722a1b87b03c6df",
+    "balance": 1353.97552303486,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0b3d786ef56803c511f9a1eaf1f641cd91c1b790",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0b601009d4fc2d2200225bacb3610ac5e903705f",
+    "balance": 233.65,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0b8040c9c320aff683d40be797a202c1f6916c19",
+    "balance": 694.890957981672,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0b8f7fb9e85b9270605057150fd29f329e78ea7c",
+    "balance": 8733.44995100721,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0ba7fe4c850005557983733445c08eada3006f8e",
+    "balance": 1135.34441219315,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0bcf67963bbc1875997cde5e3a86bd4d40249ba3",
+    "balance": 300.616534407828,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0ca898081d6f6a1c7f337e42db68f7b4a245bc21",
+    "balance": 196,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0e076c2efa8c02e80822bc828a3708fb64a0f0ee",
+    "balance": 3142.4952714809,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0e8f3976e46885ed1ac508c4a29dd4d7c6309722",
+    "balance": 2110,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0f20ce7bd4574d2480a41426a82a2423bbbff6d0",
+    "balance": 200,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0f3583bd3f17ad2a7652a8ece4fc765f3a311583",
+    "balance": 746,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0f72d3af9da8d9774374344b56cd8ee103c017a1",
+    "balance": 15792.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0f756dcb0356a9f6e0f3ae09b796776b4fdd6ccd",
+    "balance": 19925.709997,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0feed2fef4d8962d02d1ba75965d11599dc860e8",
+    "balance": 52988.6624309228,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x0ffef009d42036d012687e135389cc767a7d80e4",
+    "balance": 1586.96969352451,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x100b42e29e9c94b6f4f783b4d0fa0d6a385605bc",
+    "balance": 16973.9256055881,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x102368d6a48bef0bd9d99aad3c4c639a0ba80771",
+    "balance": 6601.69,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x10637977ab3e0d1483e1de17e3cec6db770691af",
+    "balance": 1489.0284197337,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x106dc2eb255fd863aeac831c1fb94bdbe4cb4b99",
+    "balance": 1893.79441858864,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x10bc33da2bd1be12a2ff5598a8ddf2d03bf45e54",
+    "balance": 1555.87249,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x10e9cdba97adc39efae0e8a660fefcbbc218825a",
+    "balance": 0.000879644696030353,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x11866d4d58bf56d16c7451ab96be9e88742e272b",
+    "balance": 1779.92528345894,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x11ededebf63bef0ea2d2d071bdf88f71543ec6fb",
+    "balance": 1013.46559074846,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x12196dcc59fbd9fc83a80d072ffb4fc0954858f3",
+    "balance": 1650.4250418191,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x123afe52df0fa6c7305e7f8065719990c4c387da",
+    "balance": 313.14,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x126ddf417a03c43564dd5e74a07924423303aa22",
+    "balance": 563.51613424314,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x129b8bbcb935417d07f7b7dbf0f0bfdf3773bb62",
+    "balance": 60,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x12e5f88b4ae1abebefa501dcdca654f9cac075ce",
+    "balance": 42.1131431979258,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x132df8aac5bb7c0295e1e1a11ca15824cc9c1b09",
+    "balance": 111.511715,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x134d831f8403d05d67b609bdd01ac08f551cfd77",
+    "balance": 2104.68095434919,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x13a532e481b201cce14ff9935330277077303f19",
+    "balance": 20,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1423ec0fa9e1f5d9e5ac11942d68dff83550b19b",
+    "balance": 181282.136648327,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x14709a0978a99012bc9ed19a22a91d17c293a9c8",
+    "balance": 35,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x14eb987f50389df4229d01c44e65dc27e29679c2",
+    "balance": 3523.78760875625,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1531f12f4658b85f973916cf8ad9a83408ee18b0",
+    "balance": 2298.98442741777,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x154798d79a928a3f4cf09b0d127118ff6445fd21",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x15aee6ab7b6df87239b0000794a24f3b1b5945d4",
+    "balance": 25,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x161b6be14c47303f35784fa016275ed5fd1ddebe",
+    "balance": 20192.251165024,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x164572acff302ac81c257299fc5c2a074f069c34",
+    "balance": 10985.1045730031,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x164767126f2570a427e3c2f34da27003f8394a40",
+    "balance": 12312.9091493509,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x166e7ac3e0f5e0a187c9b4ecbc7680b3b4430237",
+    "balance": 13534.3657506304,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x16a28945e66e44abc02136640fd6640e36fc91ad",
+    "balance": 355,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x16b2bf97fe871392797f3177a1f2f1e15a64eefd",
+    "balance": 12013.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x16e79cf03e74b00ffbe97ba768421067d4035056",
+    "balance": 79.4620845074674,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x179d4fe1b779ce71518402cbace9732149581481",
+    "balance": 57.162187544526,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x17e16bf891900b8901458e1007a3e70462a2a1cc",
+    "balance": 2829.82,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1828017d20359e200461f965ebacacf460fb90c2",
+    "balance": 60326.3259889706,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x18436468c2a6a717667d68dded502772709d57c5",
+    "balance": 6083.11036467127,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x18acf236eb40c0d4824fb8f2582ebbecd325ef6a",
+    "balance": 4800,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x18db86ff557babe7bedce1f88d2e3e8d08a3aeae",
+    "balance": 297.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1977e6b59fc59e0a2d58f348f9b539c2f530b009",
+    "balance": 111092.15313054,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x199eea7899598e596c7a298fd45a172dc3cdf15e",
+    "balance": 3.633366581e-9,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x19b89e9adc7f7d06924fdb371ce7614b99cba5b8",
+    "balance": 21427.1745346117,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x19bbef2dee3584afd2a444caebb5ac0995ecc518",
+    "balance": 2038.95,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x19eba7ec8ddcccf1882f18b3246d51e8aa522920",
+    "balance": 30.1100815263257,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1a0a4009e1ad5ffbc3bf6ff121b3c7eff5855626",
+    "balance": 324.446506120883,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1a59062b3ed12144dc03f9db45209e24cf154dcc",
+    "balance": 3157.41268464045,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1ac3b3d8e42ca8e5caf954bd9f6a752aa9a15e65",
+    "balance": 334.553102448816,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1af934141c4c9110f23993e58ea975d7eff59039",
+    "balance": 250000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1b18164c91a7bd502c49de2c9ac2ea77ebd8cc4f",
+    "balance": 301175.962903851,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1b6b25ccc860e5f9c8edfd25473134e0eff49390",
+    "balance": 4972.53,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1c01d556cf6eabde646bf45914f8a1a4d90ae634",
+    "balance": 8775.54,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1c02fbd5e771cceaf636dcc01775152220a610d3",
+    "balance": 0.0105770606189788,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1cb6de35c830e25ff9913ef6db0c98708103adcb",
+    "balance": 2343.86,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1ce87b2e887861c22cf78f1065e594fb6859e5fd",
+    "balance": 178993.221135797,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1d1bf138b552affd6d3defe14077e297f3fbb84c",
+    "balance": 18850.40187281,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1d405da7021d7195e1a69394a0b3c9005c3b268b",
+    "balance": 142572.314607881,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1d6edfb4c0f844caa8918e7768a2a96feffcd2e0",
+    "balance": 2205426.05568207,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1db41d1fc9544d9f653dd5394c2bf37f8d8ddbb9",
+    "balance": 625.865677071246,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1e6bb78887be191ff7f3a9d26a0467fc5fc462ba",
+    "balance": 5178.81037001567,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1ebb7f6d0b7d1c3242d18e5a0c665111ce72ec02",
+    "balance": 5878.29103556422,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1ed25e7c8bdcca28a6d5b1f3b2d3ac38c382671c",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1f6d36ea5ff2a1b0f322b1828f51b8a1285562b6",
+    "balance": 10620.66225267,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1fa4823613fb2424cbdab225fc1eefe3bd293c84",
+    "balance": 40973.4238362676,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x1ff56b4911c2b70c2aeb5dada705a0783d7da70f",
+    "balance": 3270.48189325433,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2006164044c23a7935b41ce70a7452d101460d11",
+    "balance": 198632.204084356,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x200bd838700b4be86cbe19fcf7fa94082c3e624f",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x204a172ff594dfbfb7f812067453df402adec0e6",
+    "balance": 4605.85715181,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x20bbaccb0792030a28d82ac04b21a16a5b6b91b6",
+    "balance": 2660.67243216641,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x21868beba0bd0cbd47e776ad7e6c9127dd9b5a4c",
+    "balance": 90.5245461291558,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x21c113d4d88d8a9f560210ed3035311a840ebfd3",
+    "balance": 7186.2,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x21c8dc59f2e9a11c4c1a0c310641968132c6b1be",
+    "balance": 0.000050783746743671,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x21dfacbcf57f3e95430bf70f561fa2da1ebd754f",
+    "balance": 116704.34298218,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2251e82f404a5e29d546bd7ac5c89e6438e88787",
+    "balance": 82.6954352719641,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x22d837f91f8caafe88719568cd17cc48da27bc68",
+    "balance": 5.020994821e-9,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x23018d84d7a2b26adeb388997405caeb07c877bc",
+    "balance": 1114.4,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x23811d77f8dcdc752c1bebbaa92f94d3a1517786",
+    "balance": 150,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x23ab825aaffe678f6473133f7a7a90ab49f5b391",
+    "balance": 93274.5443173823,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x23e817b3982ba0e033dab4fa1b47088418ad6b2a",
+    "balance": 76576.8623428648,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2493262b3905933a452c734aab246e34011f79d8",
+    "balance": 22,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x24bf9cff521ecfbec3d0594b0a5f93f8b4aae047",
+    "balance": 27749.29999999,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x24d38bbccf5676811bb5e48fab218528695cbee2",
+    "balance": 0.563756349986839,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x24f5640254aed1560011d49f0fc5aeb50bbdd796",
+    "balance": 29740.67,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x253f3768a463ad841a9c09633dd1eaa163ea35cf",
+    "balance": 137167.594773512,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x25594df33f4f24ab72d33e3ed4759b0ca3d246f2",
+    "balance": 997.672865515082,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x256e1cd783181ec4bd554068f9266ff752451f7e",
+    "balance": 574823.050641016,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x25705948997fc2086c078d00b611c0676e99cddf",
+    "balance": 114.148522374195,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x257d9c60a0e27a48f1d22671f215d1dc13a6ba6d",
+    "balance": 5000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x261c5e71ee22463b9926ac2d41a2a13aa64c3e4c",
+    "balance": 11.1883004072879,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2632e745fc3a5ae925cfb7710f7bdf4b7a643697",
+    "balance": 364.360304466093,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x26595c7adb266e8a3835a64888de5fff6cf0a0cb",
+    "balance": 620,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2666a5605fe397c43b2436cd1021258e0b42ed9a",
+    "balance": 1212.81539599091,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x26d4a1ad71245af725779342365806c302a82db2",
+    "balance": 48256.55036485,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x273acf1b71c246b365eff6072956ba402e9f6632",
+    "balance": 4.370472837e-9,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x275de7ee1a3267269344495c2b566d6e31f4b6af",
+    "balance": 5098.7144963503,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x278d09135a7b3af318324cb7c57675650a8de92a",
+    "balance": 3389.97,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x280a8675cf1d930c638f4f9eb9dbe75823801d5a",
+    "balance": 6.84751101904363,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x282558463739a35f6a24fe9a7c3e84d083908f74",
+    "balance": 2914.93,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2870fe1272b4120ccc007647f15e1bee2b09bb5b",
+    "balance": 0.919421173917099,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x287b1601892067d4e6528c9c709081dfe167afd2",
+    "balance": 216.9,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x28b42ddd92c9524ddb2763a57a67b97b354aba0d",
+    "balance": 1e-18,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2948109bdd9681faa743ee53481802e91b2f6b13",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x29a7ce77bbbad4b353d94fed6027e72a66a085b3",
+    "balance": 3093.38,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x29ba2f94521ff45748ed0001feb3e54bb714001f",
+    "balance": 22.4958523739635,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x29d92a89ce8b1b6c706feae7de91b8a5145bd6da",
+    "balance": 224329.960304469,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x29eda73028b76ba2c8b90ac123853ce7545e5db9",
+    "balance": 18380.0367648195,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x29ff5f4379f7914091878d0244ed585e2e9cb52a",
+    "balance": 2332.74146003229,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2a00c0ed0a999587a02a3b62da3c8a4ac7f76ad4",
+    "balance": 17149.8916913504,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2a2552de020612221bcdecf17c13e73c37534e7c",
+    "balance": 4394.78416477404,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2a4903669541b8c586672f03503da50d0d93bc5e",
+    "balance": 1180,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2b211c727d7340da74f428c5c1a208566972d0e6",
+    "balance": 0.616165426043109,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2bb03da0c9f805d1c3e48076e01c794bdac0bf72",
+    "balance": 266,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2bd0a3cc38f50909163bfe1e3269e63caad4d50f",
+    "balance": 36.4156998542216,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2c43ff45316183e7be54a91bb40d64c509388196",
+    "balance": 2287.40388435404,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2d097a4edfef65dd2657f2ffb8dfa0adcf01dd7c",
+    "balance": 12166.56,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2d9f2e55335392ff86f9440d0b7b2544a1a7d674",
+    "balance": 2,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2da859161c14dd4c471d45279c09a95c16e46441",
+    "balance": 520.767127817047,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2df61e1cef99ae1b8af7471357c846c5e2e623ed",
+    "balance": 449.072074470536,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2e139d61906af09124c1aa8c3310cf85d67a2b70",
+    "balance": 22.2684469832545,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2e630d668b6e33f77318873faf00a5a7c327941c",
+    "balance": 9018.73,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2eafec183d06d88ddc60b35a4e0425104d11b127",
+    "balance": 12419.7264087658,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2ee9c2ce331feb7ae40ab2d5667dfde09a80f99e",
+    "balance": 15505877.9757904,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2f12c1024e09d83e2d6f1f44a2846829790a3969",
+    "balance": 2027.24,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2f1a6c3735ff526548a5c735e6d4c2bbc852ea12",
+    "balance": 8070.78706656615,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2f9e7d0a04c0d46ac410f06fb6d052e7bfd93d8b",
+    "balance": 36346.11,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2faa553b608cfda5f30a613b38e299781beaa2f5",
+    "balance": 3554.00011716789,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x2fbc0c446871c2bce1cdde5e3febddc569206c6c",
+    "balance": 663.87,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x302a075570d38c65551cac95485a6913a90bd5d4",
+    "balance": 1498.44,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x308e6842ff0afe084fc80eee6d7dff65813c8f64",
+    "balance": 1108430.43438423,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x30a6216c9cb905514c73dd1940802568ee36a7f7",
+    "balance": 15000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3122238bfbbfdbf88faf055448f68ba85f766f27",
+    "balance": 1750.42499244337,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3219626195b032d51bf0699b37c55dc7003856a4",
+    "balance": 7026.32417153,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x327471f0c178737635ec2fcd5ce6fa5fff8d399d",
+    "balance": 871.679007388646,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x32d058c703f8356ca5a0f7be2a1eecd58efcb346",
+    "balance": 3168,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3307aee22ca33c6925e3e703c2429f5bd9c1c364",
+    "balance": 1639.31539838699,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x339676837acacf73c6475d163ee1beb7f07420f3",
+    "balance": 20,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x33a7570a23e2e3890ede038cb88ec942d101ae08",
+    "balance": 21863.9803649464,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x33ff83d53d36dbc5b6957a53037323479b322cea",
+    "balance": 1096.24294,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3457e99ddc6ebd049b05b1f42925eb198f0d5a38",
+    "balance": 510.299725410553,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3494a465019535a8dd6eeddbe3f65d86b2d6a417",
+    "balance": 687409.674340079,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x34c58308ec728b22ababdc442d181a1dc68d5f35",
+    "balance": 465.334396157075,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x34dcd78e4d09ef3a675565ee99505617dcb1a4ef",
+    "balance": 500,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x351af1631aa5ea1ca62ad8a4e3cd87128d4d9108",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x351e02ddc5a9f54cf1abe6502c6432d9eea755cd",
+    "balance": 47.5779667145958,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3542b6e164d11bd5f05b5e4c513dae00e6e61562",
+    "balance": 12.4782985351933,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x368530abbace84d375e0d64b25eba6892b436763",
+    "balance": 261396.32426724,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x36a56108533aec691ebfc58453af7a7cc2f1472f",
+    "balance": 0.66,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x36c3a56c6ae197fcf0a946f9dc973f6904887f23",
+    "balance": 59076.235915982,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x36cbfd77cd76b7d650aa54686c07eb84fcb2456e",
+    "balance": 10130.3260061226,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x36ee83fea37323688c3ed742752073ff5f436b72",
+    "balance": 1410.74032222471,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3746a9ee5753a4a61aab002c227d85a3c733ae13",
+    "balance": 1192.03,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x375a8ab5008db1737b7f6f76c05aa0e2327d418f",
+    "balance": 47.3465195107822,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x377abe6eb47ce59f55d0e71ba08673b19f9850fd",
+    "balance": 63.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x37a550fa31169e76d39d758e766f45541c793c49",
+    "balance": 1713.15196574837,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x383acb558746f73cb86c185c7904a7cdfb6d2c89",
+    "balance": 13482.9369411185,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x386178034e7f78de675e72d9a438bf0099518253",
+    "balance": 15.9988412462737,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x38e3b5d05272d8e9e642a436ce17caa805199a02",
+    "balance": 40096.9839004083,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x38ebdd0d17196e59d4775db51706b5f74913a63d",
+    "balance": 9000.86748,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3917aefd81cb3dd76a2f54d29084c675243b3351",
+    "balance": 16103.9024651324,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3978c7c4f9e60a30f624d8ab8b7d0c2c89e44a11",
+    "balance": 14066.6904009363,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x397d4c48e94598798716fb79a73ff357066910e7",
+    "balance": 21.15,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x39a3dead10c42adf6bc1c46bb140005cf7040a87",
+    "balance": 187703.608954517,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x39c0f67b34d921516c950e9300eca4996dd366bd",
+    "balance": 1058.27222671657,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3a2e1f069158a287f253e309d373ee7c467b4c3d",
+    "balance": 989.58396556,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3a747160423b65319c7a5e33388cbda82f858c13",
+    "balance": 617.320450756916,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3a93e3a5525bfe567438d1254bfaf4611dae35bd",
+    "balance": 752.83,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3aa4288736a43241383568a095b2361d3b3efd6a",
+    "balance": 300,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3ad3885d07ef3aa9f3bde2918e0a3586f2e16ad2",
+    "balance": 10000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3ae5edbdd1342ce6acaa48342792315d52e7b067",
+    "balance": 489.103141323828,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3aeb6592ccafe0f629ba4f23f0936bac2a4c091d",
+    "balance": 3053.41,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3b38adda823ce419f623413a384b422106394c64",
+    "balance": 14708.3716327783,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3bb03f75cab6c5f041946c50ffe9ba94b4f46217",
+    "balance": 789.412627702368,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3bc28a86d98e3c54a6e71b2b55e97c2bc43908bb",
+    "balance": 6965.75700906361,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3c5df9404912a166dee451c62c53186af00e1be3",
+    "balance": 275372.490158933,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3c60402aadb7502377f8d22a86653d7c4b8d81d7",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3ccec3a2b70906606d91df1fb6b113cc298cb1cf",
+    "balance": 72.2863555545742,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3d247eaeb731fb3446f629d91fb1b4666c50b235",
+    "balance": 14125,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3e162a310a1c01b63f072b7e4192f6c1efab311c",
+    "balance": 1500,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3e39770d597c1348005b8789fc0e4935520bde69",
+    "balance": 6502.36,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3e4bee01f05ad310ed3eb7ae37126d15eb5264ef",
+    "balance": 2083.95835142558,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3e8187019d0f1254444ee5f6c600f99b57af5c6e",
+    "balance": 1291.35,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3e88d5ff8d0fdfd198af09794edca9e35f89472a",
+    "balance": 125.778220545509,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3f04dd756a29525d429e62b9f696f157ab098ab4",
+    "balance": 65.1378333301609,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3f25e39b32702608f683d19eca7da1c1b6bc79e8",
+    "balance": 166.328400472172,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3f2dea11dc1aad8c77bbcd37e7c21af0f745723a",
+    "balance": 224179,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3f779aaa53901f3e99335b7ce6de55fee274f21e",
+    "balance": 3268.06501213035,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3fdf750fb555583374b26a5ff476abbd7f6e6fb5",
+    "balance": 709808.115451621,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x3ff95dcc2e57699b2bf47bcb990540f20ef13449",
+    "balance": 20042.28,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x400c07640ab9dd23771a65a53ea044f9350d88d8",
+    "balance": 42.0073741342688,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4059e94f431b2c48373c3cf962b257b7a4b1dc63",
+    "balance": 145519.879387685,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4077bebbc98d0dad6b7f8d3c0a6718f99e6fedac",
+    "balance": 3624.36559883,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x40920bccff943b19449d4b86645d91c3e1ec73e0",
+    "balance": 3848.86,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x41076c9251011f6ea67246cffbe345a16f1405c5",
+    "balance": 523687.349603364,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4192f2b79f98a6fe47fdead17540951a70a173f1",
+    "balance": 10000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x420e384f7e395e80c167248f6bd1d8f306374dce",
+    "balance": 20,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x423c8e055c09799fcbf0cc7a7e7c38ecf0a08985",
+    "balance": 1800420.05278516,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x42caf61b0c98b148328bd112d85505133dc6860a",
+    "balance": 337.163225089378,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x439e9c93e93db0ff342931a6b2ecb2791fd1642e",
+    "balance": 16407.48,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x43c02de52bb3f71157a91d6db6e2465e96e62307",
+    "balance": 9421.78004,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x44848cff00e2dbc999d8cc495341a9ecd4ea1b89",
+    "balance": 1893.16636011127,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4488120f87a9ab8a205838297ff1d1cc597d81ca",
+    "balance": 5097.68263908,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x448da925b5e46b98378d3c54ed5d8d63ae8dc8d9",
+    "balance": 551.359599246196,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x45131378c340b4404c69397d8191b7423e80f35b",
+    "balance": 993.62618709848,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x455a9c71f2360cfed28188940c50ecfb12df2613",
+    "balance": 1550,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x456da1fb5f4e463c3c880a4d0cdf7b05262e8227",
+    "balance": 26.5989746401174,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x45809812b709bd0e59e247f63e698ed38cbe91eb",
+    "balance": 700.615319711875,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x45d860305f8f93fa7e17eb937f4b40dc1c348c18",
+    "balance": 25,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4606091261faf1de7e034c519c45eb3945fea837",
+    "balance": 8030.49,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x461264c68ed4b0d6a9c04859ff13312252696c71",
+    "balance": 0.120980903192404,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x461854016d7777bdc7eed52bc41996a333201f17",
+    "balance": 1180,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x461e5400b1bc374f32cc0ea9c10772bd2f81d569",
+    "balance": 1186.01,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4626eb76a7c2896645b0117614ec0555e6e3a180",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x467c1dce11aa733fdac5cada42207f5c0a1dfc4c",
+    "balance": 2055.596611,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x46c146dfa560150184115eea7110ccc511a436e7",
+    "balance": 168,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4728840cea5a12cc242f841373f3c8891fe5959e",
+    "balance": 3510.7857171147,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4743bf1bea33f51751040ba93d77fb0f42279df3",
+    "balance": 0.89698455514177,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x477ef884febdfdbf892b8c91029281384c2a09ca",
+    "balance": 4230.08,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x47d3ccc3b33099e3a496c47aab904c3fc655dc87",
+    "balance": 0.000072854287291254,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x47e536906b2e076ad1c438d14a03df273b104b5e",
+    "balance": 1202,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x47f39ae1cbe7594a042c80bb17ed424df24e04ac",
+    "balance": 1000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x481f18a55a4a36c309d51ab44db20036b5ad0e5d",
+    "balance": 12000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x483abae04cab0b4e2d8db2cc85677bd27cb23714",
+    "balance": 84142.7591998053,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x48df8c43fc84585dee1c2c21ad8f060bfba405a1",
+    "balance": 16551.84,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x48e91b70d63085d95de2d6748c32cb24a15cb03b",
+    "balance": 38.2271765705718,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x48f576eb94cc0467be65efb3b68bcae5a217c8a0",
+    "balance": 1819.46824036608,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x49664565ccf0b075462fea2a7e0dda302846ec2e",
+    "balance": 1980,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x496c5dfb77cb89073b6be1df1e1949a226b34f82",
+    "balance": 10014.3271361646,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4982c8ee7b8e21c6c0a31faff80cbd28e6754336",
+    "balance": 493.396518310837,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x49b09627a25ef9a4254251869bfb7140ae80bb96",
+    "balance": 1954.50572794747,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x49cf222a48f1472b859ea2261649182e8b3e5f54",
+    "balance": 4522.88,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4a4c27b8b931963c244bda11d70b5b8b46efd65b",
+    "balance": 45642.04,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4a4ea13f2cead1c8908e83703a79bb5fa131ba14",
+    "balance": 1157.81207208162,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4a5e08e9bc91a4c17ff1b4548b6ce4541e2e9961",
+    "balance": 339693.637436652,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4a65ef89700014ae91709e98157745c87edc0acc",
+    "balance": 413.060330674328,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4a6ef73db1ee0e2ede89fe248aca2a1279905d0a",
+    "balance": 4422.71455949,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4af192075df050f28f36068b66940f8b8e2b306b",
+    "balance": 376.6158,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4b58a38b04978b7e94b9beed3fd9459026a92932",
+    "balance": 109051.362658074,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4b6164338a51a248d07304c063486b1e02400173",
+    "balance": 3639.80418647221,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4bf05ea5c6b90a30e98a2e09b33b937bf9e6845e",
+    "balance": 35.7837239454221,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4c05d1723046993fb5a7d79f866c2914f9ea8e41",
+    "balance": 57958.4315214124,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4c17db995bc4fa9cc428bc1919767e3e88a27753",
+    "balance": 9277.68919914135,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4c6c0af944921cdb03f70a35acd5b8799d45f0a7",
+    "balance": 131.588976379911,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4c781d026b47b213106f1bf3db806d6ec30271ab",
+    "balance": 6931,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4c985a61003d10f8810e42f6380386919e913003",
+    "balance": 39169.39423546,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4c9cda6b9470ef102c1f853303555173e54ffa53",
+    "balance": 532.828167444419,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4c9d728ec5faf97102b73baed316097b7282cbf3",
+    "balance": 0.090964409978209,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4ceaed4762f4198a55e8cbd267af6975686584e8",
+    "balance": 3933.04,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4d6547b659a2259925e1d873f1082dd8ccb5df2f",
+    "balance": 100014.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4e8885c19737db7546cd7b8d5fbefc270074c3ac",
+    "balance": 4618.94538842868,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4f22cb1ca45a5aef332792ba9231e71609e20bb9",
+    "balance": 420922.782611467,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4f48d84e97664c0f98c596917a6fa1a7494ee359",
+    "balance": 2412.41883898,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x4f49fa50c4257408fe6362488ba5a5aa261d0b2e",
+    "balance": 5024.135,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5062707526749adba2b23daa310c772cdde79879",
+    "balance": 1108.85334014422,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5070f5bd4fa36e987f3125809133602aed0204fd",
+    "balance": 8.25965840614638,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x507c8a9e5b8ce37639355fb8713cbe4692f8ffd6",
+    "balance": 10955.77405556,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x50929a086310b7eea03381f195d61eef4b8e8487",
+    "balance": 331995.006663527,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x50cad1c5769a489e1c4d3e87201a8e0fd143803b",
+    "balance": 430.04,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x50d43f89cb05374e76d24ab426e3e2f5ee9b7ceb",
+    "balance": 4244.35259107945,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5108b0aef320a0c2a2f6438b56c9dc1ff508222f",
+    "balance": 50,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x51b173158dfc28060b7788c59bc57c4a5cf50e9e",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x522ebc52b137dfc5192ee94b79197bff4861f2e6",
+    "balance": 1074.57279473164,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x528612f9431ecaab3a0c93468360f6e7468a5405",
+    "balance": 1325.33,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x528d4e4e0dbf071ec23013f06d8487bad5a8a68b",
+    "balance": 3428.88246667498,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x533309be44baf96a8ccb5572d2528679dc04a329",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x53eb134b916cb04ad49979967424b48f0836e5f9",
+    "balance": 2176.76495759032,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x546d682361a8f136e2a85bd69137e6e48fea5774",
+    "balance": 10429.19,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x548bcc39db34dc05681609731e55a1e830181192",
+    "balance": 87.4101749560382,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5517e41d87be227f0399f9c5535958224962b901",
+    "balance": 9705.3581271101,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x555eee16ef32ee87c46a50c0227a3bfa89e45ef9",
+    "balance": 1717.73727823146,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x558e36fcdf08e07c02c7818b379611ac6f89de49",
+    "balance": 400,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5594cdd0c679dc208e0b4272bfa2e85eb0e94869",
+    "balance": 390.02953490236,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5599ae3157ff7b4608507204283f3719af241c49",
+    "balance": 12807.27,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x55a28cb09e2f917dd38ab99993826a70c8a2c0fb",
+    "balance": 200,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x55dd8a727a1b9e87c95af0717ee033d7706f7c5c",
+    "balance": 37.7767852771184,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x563341850d76dcd0a5eee3c3e5e92542ca6a1ca2",
+    "balance": 29846.3903378448,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5726fc32b60ce7b5d2279cc16cd832de72669f4a",
+    "balance": 9.46409573559129,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x577c33918932f881537837a160be8709d6760b19",
+    "balance": 38.4826930191643,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x57d9f565ee542639e6d3ed2d9018cc581f36846e",
+    "balance": 5568,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x57f6033ad2717a50bb35f9f9f33a4563d60821cf",
+    "balance": 121203.13915378,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5819aa463709b98a775ec805bc1273cf27d4fe56",
+    "balance": 200,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x590c7a757c79babe8a5b56a14ddb74979d4e02ce",
+    "balance": 803,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5911e1b7e24188c37d74e484227a25f912bf8f26",
+    "balance": 16,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x591871f22f61a2312b95725f68651be2f8a8fbc5",
+    "balance": 200,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x59277bb3e58e17d4bfc004ab524ddeb5621c66ef",
+    "balance": 1235.91804279719,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x597fa8fc25a1d74f50d86c02e86accd225e8908a",
+    "balance": 1e-18,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5990bc8c768c2859bb36792de0f868433540ab9f",
+    "balance": 257.935313501368,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x599d2d13d46091508d46f9331202330e914d8fd8",
+    "balance": 182,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x59e9f8d521f439821cd6899b4523beedd1ba9941",
+    "balance": 12514.9687613005,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5a2678999e7c8aa205305348678f63729695321e",
+    "balance": 869.803759096157,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5a6fde48ff946ffd50308dd7cc3ff40cda698d23",
+    "balance": 333.33,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5aac9a307ba52344b15dea8a99c23f07bf6d9215",
+    "balance": 453380,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5abd04c31d839c4135b0671a36e832520b12af3c",
+    "balance": 217.961326429443,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5b1804ac4e1835357eafd95c55cd3e730224c4a2",
+    "balance": 806427.213783573,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5b8c2fa130c0e64f29645debb86dc85cef1b2ef4",
+    "balance": 500,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5b9ddce2ca919a26465d049f2b76acabd34a08a9",
+    "balance": 2900.91,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5c33bb2187ca3f51d6947ae0188801b5e70ab2de",
+    "balance": 20,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5c4f2619fad8d51ca0986c9f6f3ebe348f31a0f8",
+    "balance": 7691807.57278246,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5c64732b6bc87b66e733b9bf40592e4a43b7f4f5",
+    "balance": 31239.4744119898,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5c740ad7c0079f0e62b7294f96df99bbf60db48f",
+    "balance": 101.10184181763,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5c840330572bdc41344c28aa72c3823e46dd8a97",
+    "balance": 155,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5ca891fc8056117cafa79f8a0d454c0325dac5d5",
+    "balance": 664.23054692,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5cefd198bc7e69ade5fe7a321056c35d46088031",
+    "balance": 561.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5d287c5760bd668892981c16bb9556c10ccf696b",
+    "balance": 1009.54793797005,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5d5c63dc6059181d044515c7602236c9ca2b25e6",
+    "balance": 138.04358985442,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5e288ae07205963145cd9b2ba488a561bc605cbb",
+    "balance": 547.43537262289,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5e359a7ef7dca178c78a37892b89d71422f4de91",
+    "balance": 887.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5efc7906cfbb43e8219614d37e2f2e9937f3016b",
+    "balance": 267.258023087809,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5f213e5fd20bc9f27526835c2b22e2d29e8d0418",
+    "balance": 60,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5f37a723464db68c538b8c77406421b37b159a73",
+    "balance": 852.221097455181,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5faed33449a465b7ea9de383edc99e51efaef319",
+    "balance": 5874.75,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x5fd4e907f2ffdad3fbfb271f1bfe3a0eea330b77",
+    "balance": 20393.5412798,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x604f401f4829c127a6531f4092f8a4223df452f6",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x60fb6ab75ae208975d1e12f9b271d36da86f3f5a",
+    "balance": 4624.47539623767,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x614b89cfcb28f84e7bec3fd90399765e26a7baa4",
+    "balance": 32221.9,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6151304bd65a7f6a891842809c9086ead6e5d5f5",
+    "balance": 0.0795425078474039,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x61853172b57a79960f4233cbb81db45f67a6c83a",
+    "balance": 9.59006385490919,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6211c399e01fedd93f07b4f54f18051097c19325",
+    "balance": 1553.96526767514,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x625d16a52abc125bc0308523cebd4391d53fde9a",
+    "balance": 5.63525970224623,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6281087284ede1ef02e87f17bb5bce8a4c880175",
+    "balance": 67184.76,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x62c0cc867de5d23214cc2e420698dad9c19b4949",
+    "balance": 100038,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x62df9046ae72665ec7d5ccb74da947ebd496cefa",
+    "balance": 1302.73814414991,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6337a655de55c107612fb4e4312f63498e0610e8",
+    "balance": 10000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x635cd6806d1bc05b1d1d9d272cfdbdaa7b6289a3",
+    "balance": 5855.51578432758,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x63fc852acfce4cab18ea1f327e20d71f6f95c34d",
+    "balance": 96197.8213155409,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x647b3e376d885a8aee92583bcbbfe33eeb2f72f4",
+    "balance": 80724.5979733633,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x64c5023dd7a82458b43d118cd8dd222b4a492dc4",
+    "balance": 10739.38,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x64d1a2d79992e92a1ecd09a27079d423c2664b69",
+    "balance": 898.92,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6514ea7d7eac99267584d02b9abf34183abc814f",
+    "balance": 15100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x658db4afd2bdc6f1483b922f3914eb53a2bfab80",
+    "balance": 3074.94704980737,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x65b407a6e6f2afffc78c46142c49ebdf34cd4c11",
+    "balance": 312.998801332032,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x65d30cf166cf5bacd99bb835b609c1cba63713fc",
+    "balance": 705064.96576838,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x66150784d7f16aa5970f4f1e6018ebce90436410",
+    "balance": 2750.63366336634,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x665707aee9e03636c65b19ff99f668b4e764163e",
+    "balance": 329.410400226231,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x665f8fa891c7ab2ab99dec5a039b05e835b320ea",
+    "balance": 50252.4718606218,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x66ba86e3d90e67b89d427310614ad4b934c919ae",
+    "balance": 101.912889498727,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x677a3ab330ae008f818178951d95d7d828d98b72",
+    "balance": 5058.31090323602,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x68295ec1fd9563ff58694f1231d4a6ac4d9dfeae",
+    "balance": 166815.478071681,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x682f40f94dd0274dd68fd5c550dec1ff0e3f04dd",
+    "balance": 9901.18124702996,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x68347598f8754f31eec106b6a1e1bee8b82c7c0d",
+    "balance": 300000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x686577530c407fa2b3dc1f81b2a8e5a44ae32f6d",
+    "balance": 560649.402534654,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x68cf7e43551156b8c8a4fa59fa8b6941af55ae5b",
+    "balance": 1701.3093730749,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x68d53282b30d342e4d31e9818615f14a786eadfe",
+    "balance": 52.5799267703632,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x68de1eeaa2a1012bda52ef46ad3eec1a32bbbbc4",
+    "balance": 50000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x68e6379b9b2ec21514b2a8fd3718c2ea5e9de348",
+    "balance": 34.3880224986,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x68fc38fb7ee7d02b5cb54556c46ad11d925ee2c4",
+    "balance": 52554.1859362972,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x698a514a301db319c1723e440f68953f4c68efb1",
+    "balance": 5570.29607027455,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x69df92f11a18270a1ce0932be19fb69860220bb3",
+    "balance": 20846.8758044873,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x69fe5726a9a9e15f0eb56f386fdd3e4e98c0b195",
+    "balance": 915.790994431038,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6a99c8687dd1a21a291b5fdf3a2f66ef5d2eaa03",
+    "balance": 714.099990556834,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6a9f5e40162d60890cc8bef8ab79f770c1ad3570",
+    "balance": 10813.88,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6ac5f29f05d25190394c362ba2044af0e4d6fb16",
+    "balance": 158928.292903955,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6b1f29ca735ca5719aeacf221364049fc959f09c",
+    "balance": 30,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6b2c3883cb03221737cfe2ad2dc4ebc0cc8af6b3",
+    "balance": 23781.4848756267,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6b4b308f2e23cdcd35f41a0b8b6374deadfa9c85",
+    "balance": 1000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6be8a4c0c4ff684e2e1fc1f645d6d4f2a81fe00c",
+    "balance": 8.4981665040141,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6c2ff0900b189f51e9aeb4b910fe8ca68ba50dee",
+    "balance": 1597.17052254161,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6c3039da08406d59a8e37de2c815f83eae1191db",
+    "balance": 34890.60385996,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6d2e8ebc7ba3efeb01a94d4af55ac76efc006b34",
+    "balance": 51590.976283704,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6d6bd0fcfe37c270fd14d09ffe66709a0f61b053",
+    "balance": 330.903057382165,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6d7ae134e5805642f502fada968310dbf7e7f2cf",
+    "balance": 10.8643374854681,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6e3d37a5ca29a72cb2add08f442f53db23b0f41e",
+    "balance": 6142.19146965606,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6e7c2ab2d36f4aee113755e32c9c026441f8b02a",
+    "balance": 1190.65638683421,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6f1de6662350d8e860d98c633600ee19be5bedfe",
+    "balance": 62.2570639233077,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6f65c146839f5f4c21bf87a374e1e925e183bb60",
+    "balance": 72000.808262016,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6fd1b1b23ffeec7941051ddda5d3954e958052b1",
+    "balance": 5575.34989,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x6ff8d5850486c917ff7622dd65bfc7448d25457a",
+    "balance": 12518.0845313962,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x700c7551bf9dd60e21a1e9aa66c16aa74c606fd6",
+    "balance": 28600,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x701bd710cef7c4e1bc80f3078ea02d943b29358c",
+    "balance": 1243.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x70dfb801353db072325e79647cbb397644bf2a0b",
+    "balance": 12.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x713e907d99445e0c35ccfb7228df4fec659b9c67",
+    "balance": 7255.01,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7152c619f89b53bba3bcdd1ebb1b440dda838948",
+    "balance": 641.644690687626,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x71c602dfbaad570181abc2b6565c0f0967346388",
+    "balance": 870.115035908219,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x71d141f4c82af4c4e346e30954fd154204b45835",
+    "balance": 2000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x720b39fc016079c45994d86dee5fea2a88e73c14",
+    "balance": 75.2781159177583,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7265715bd0ad10f0b954bbb37382d2db43c44bf6",
+    "balance": 9976.89,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x729667da5882945c5ff10b856ac1608423bd6929",
+    "balance": 136.720102451738,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x72a989edf79125e7ea4eb38826f14e9e6d0ced4d",
+    "balance": 2000000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x72d7c664c782021fa8270e431db251502d82af83",
+    "balance": 19713.3038794964,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x72f2edee97b400fc6cc764bdb25b853a6e9b4525",
+    "balance": 12.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7334728423671dd3afaf3269be3ca075e54c07ce",
+    "balance": 88821.42422311,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x736ed51d11e8ced9ccfa229ab5b2cbc5dfd40d4e",
+    "balance": 20349.9369184057,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x73d0856a7d9daf22030d97258e42c91c70449eb4",
+    "balance": 0.000080428122348882,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x73e87924258688ff9dad403621d6799d91445b0d",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7421283637b70b1fda75b22613ef9d8aa61f3e6e",
+    "balance": 26247.5044254283,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7435330619f00f5231409c1c0f0631ebb030c922",
+    "balance": 2274.25048152729,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x74623d272e1465f027a5b70c7c20f07d83513662",
+    "balance": 11472.0338738843,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x74e3bb79fc64547096144ef4e8bd38adf8f14209",
+    "balance": 198.342595255949,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x74fa8fad40b2cef31fb5337daadfa50b3d6e1957",
+    "balance": 75311.6775588462,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x752dc9e6e1d72b30561825d5a812c306b9294824",
+    "balance": 3967.0629085597,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x758e5b699148e2d399226717bef12a06b017a86c",
+    "balance": 42655.3988381205,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x759b99d2d04d0d4066fde274012f88725eab43ee",
+    "balance": 13915.4734894234,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x75d94e950e93dab58e02f300bb2039fac72459c8",
+    "balance": 312.486566224456,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x764d879d84197aed51fd69f720f5ded412fc4c7c",
+    "balance": 2787.96901053636,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x769989c007489adc818c5f9149e5c93b19e412bb",
+    "balance": 17175526.1849189,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x76a8d891916b1664fb0e51f38847f197b00812a2",
+    "balance": 50789.9768966,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x76d1dcb6e71d4bdbc9cbaa4cb3841d0f4a8b6101",
+    "balance": 393753.148811166,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x77255c708b781df2d703ba6ea7e2abdec404568b",
+    "balance": 909.19,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7752ac9f84fd7b1984001d54db5fc5b74341e13f",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x776e108fa9faf9331a74e6d79cddf3be99cafced",
+    "balance": 1393.54899619879,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7787539f704dccefd164ac451304f472c6da6fc1",
+    "balance": 133797.748588268,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x77882c261e2a0338a0cd0ef01ae09389d0009b5c",
+    "balance": 8183.26968653,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7801d3639b369f403d9f6a8e248f80b335fccd85",
+    "balance": 310,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x783339dc3d89d758145dde246280332dc9a48d66",
+    "balance": 8784.46985983437,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x78c789784a08b76b1a8288a2e1e07997133b7f6b",
+    "balance": 14.7671648508876,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x78d6129e5e7fa731fbb346047c48138e71c18274",
+    "balance": 1.048576e-12,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x78eaaced12b3c2ff6dd6aaad8c806c1880a248ec",
+    "balance": 25682.91,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x790620a2d04e9b3e015af4b49ac5b84de25bf7d9",
+    "balance": 686.658015782609,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x795deabc30d05ae3496b4ac46e9b39c89d912efe",
+    "balance": 1000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7a8fc7af39cfe210dee3a51d760a2e877b9254ea",
+    "balance": 8202.38532811105,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7ad173e491f9e5b98fdb17b40eccf0205448a627",
+    "balance": 175.4194760506,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7b27fa2b3a8873bf451c6a4a4fafd94fcb1bc5e2",
+    "balance": 0.85,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7b59216fecd3074e674bcc2b7b4460e9141e3a64",
+    "balance": 0.526260103098334,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7b9c24aeabb9b3e48fba6ae38cfe230346258d66",
+    "balance": 0.00730614202172764,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7bd5330a78448163f8caa5021d849e987fadf28a",
+    "balance": 1304558.24272226,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7beb057211e7612a2c3925ba15b36ffbfa068295",
+    "balance": 679.12,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7d2cf30b4506737864ce3e859928c3fec9d92fcb",
+    "balance": 46779.8775470296,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7d393e0edf415317263a228d451a50f133c58b94",
+    "balance": 2805.26245032931,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7ddcc854b5a00b200e8c4ba2866ed824a2eff067",
+    "balance": 3235.07,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7e012cc5b50f3dbb4c8e00893df1a4bb882bf88a",
+    "balance": 1127.14005864729,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7e03a74cdac41b9ead35392f4bba1c66c358ba54",
+    "balance": 30,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7e37bf79394063341e0d227faa5fa7b793ceaf6b",
+    "balance": 0.924068222559132,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7e7623812d81492eb023915454ce0317301f610d",
+    "balance": 1078.05528900602,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7f2d08ab0d5672db36da1596932cba988fee95e1",
+    "balance": 10000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7fd52862ce1c71497ae2e1ecd0ae429226724de1",
+    "balance": 4692.62,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7fe049717585fde1b5f99ad393cd11ee17341995",
+    "balance": 8564.86,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x7ff5dc5111070d9dc58421576de998587f29d009",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x808887bcad711066b8cbca42c43e51583aa72653",
+    "balance": 6096.20422653292,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x80bbf3cf50bbb3796b833b359b397c3c20d90705",
+    "balance": 5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x80c14edc8ad81c91ed5aa053eb2d99d1b97de37f",
+    "balance": 4682.01513322899,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x812e873fb87075f3ce3e890dc380b612eab315b0",
+    "balance": 772.31,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x816e9359ea847839e0be4c18218e6658a1ac3662",
+    "balance": 281436.954193426,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x81845121b9eda3419a37cd0dd73f570e009d6dc9",
+    "balance": 5224.54576249601,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x820a4c65ea5dc70201674b4b8a73daa140cdd37c",
+    "balance": 20,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8276a1e771088731b4da89d13a632c6760c0bce3",
+    "balance": 800.318638999608,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x83acc249c3b43ab8c1ea7394469bcb4325ba1c87",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8482b96f4b45024827d433bfedea0215c1d0e820",
+    "balance": 12167.8895926784,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x848e63f6e4c347f7f16fc7a551a5d89d1156af2a",
+    "balance": 20421.4562224825,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x84bf5d9abaed035d7300e740f91b1ef5b591d101",
+    "balance": 59279.0013799823,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x84defe40cf386f47ad536cb2f40e048843d78744",
+    "balance": 20,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8517c11e0459eec933391476eae41613e9e52a1d",
+    "balance": 247.720630132169,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x853fffee933b017bb6b0a3fecc56e0135659103c",
+    "balance": 912.54,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8543925d0ceebd25e5d15094127e57d1547b61b4",
+    "balance": 8.32065334683476,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8559aef12e2c40e66f0eb600d0dd8ae5cea419d7",
+    "balance": 108.901238346425,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x857e12fa9da51961d7d854e2b6638bf47b7c4812",
+    "balance": 710.462058328316,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x85b0d67a3bb5e371e856003d023a7c086e26934b",
+    "balance": 28526.2985092416,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x85b3f402d14a9f11ec4c2f0815dbb86a9905b2b2",
+    "balance": 29930.1625289023,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x85c5db5dece71344c672ee6cf96294df3704565e",
+    "balance": 12431.4845435401,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x85df24b129124ea1a2fdb69c5c2f069c49e6b701",
+    "balance": 62.7722992846002,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x861e3a3a552930a33302a476cb460cc27b38012c",
+    "balance": 24959.2683574915,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x86279bb735748e6cf8ae53d1c10819b8ad569706",
+    "balance": 5015.6013043974,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8634bbdf1af0c3265c0d70fb2f66fc920546c113",
+    "balance": 48835.4471452984,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x86351f8c85413252e34eba9e9b462b111b2daee7",
+    "balance": 3114.45608925951,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x86ce694e378dc8da5528edf46fde60592e33d55f",
+    "balance": 226689.695869842,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x86f616ca00bcb9741c00e38bb08af20565d9af04",
+    "balance": 1084.65,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x87511c2dd335a53fd78dd412b0b8a2f96c083a1a",
+    "balance": 108,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8792372ace9ecd370c3289e688585715478194c8",
+    "balance": 1230.59,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x880c5a978a43c0937ce04966a2367dd6af536d2c",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x88a4b584c7ef4ad560f46fee02cf143744b3952f",
+    "balance": 2396.364665,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x88f6c0a39e9ac4c15f441919fd738f3a1d76140a",
+    "balance": 0.0869129086092535,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x88fa395aa8a7b57cff6572fd37b585e1e8ce3dac",
+    "balance": 0.000006961531954393,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x897def71492399cb9e72b719bf3e8c305752435e",
+    "balance": 233685.356059253,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x89d2230112db904aad84e47422728cffee6df9d7",
+    "balance": 277.485103108174,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8a935de8b48dc2c0fe759add2ec7b4312f4bae71",
+    "balance": 64041.0073480841,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8aa8158f45039e509d367c788ec8bbe51054611e",
+    "balance": 406.526498849056,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8aec72cb7fbe79d50bd6d35990dd250b73e00c6f",
+    "balance": 151.263062652988,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8b1696778383122582d972732a1a31ad7468577e",
+    "balance": 453,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8b478359b5593747473e67f78b1f0048c1c523ed",
+    "balance": 52.2861220577488,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8b93910594e2a09c30d7e97883f6d35d8772801d",
+    "balance": 232.221579245022,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8b98ff9b18d651d112c439884626c709a16193fe",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8c0b3a63c8b9d7af9ef28bde75deea00c08fb6d0",
+    "balance": 316001.8,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8c17cad611c2325754e981dee213f48171c963df",
+    "balance": 768.99,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8c1d4c771525cd5b401f6c2f6342145c19ce2c34",
+    "balance": 1604.03086567344,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8caac1cd3de19fd5b1acaa79e5b157df30f7fc0d",
+    "balance": 617.823758519515,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8ce84c3c84b7231fe1e8dc07147ec18bfa5bebbb",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8d2c7d2ab8b29d57e94735bb42f8578955b19886",
+    "balance": 876.542588835346,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8d408a4822ec7d4ed74dc3a3e8dd3df0a896aba6",
+    "balance": 143.17844309821,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8d8eecaa456dc645a1ed6390f62d5d572c46826b",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8db603c2b1d2b36c165b448f93e815e0f6d42ff9",
+    "balance": 6319.01180892397,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8e815f64fc5b43c362b7d188df728ecc6136a24d",
+    "balance": 0.62429621147056,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8ee586c123779f06f2a9c4d5849ab365fdbaea3f",
+    "balance": 2189.73716437365,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8f64e6eb5c7d6bc2fc5f441154e6a83ddf3e5772",
+    "balance": 70000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8f7e7690f864e3f4e24e65fb1932b405e7bc93a2",
+    "balance": 323,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x8fa447e0c5d589c33e8fe53af04f097b90573558",
+    "balance": 161.253213982141,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x90255b7534a54a3269bb698418676d41a63be433",
+    "balance": 7131.13,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x90833103eb5867f61e9468b09c27a9d302c936e2",
+    "balance": 320,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x90b655934a2fac937c60a8d6a824dc4a3ee41545",
+    "balance": 240.888,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x90d95788fb1342c73c28690bf3e790049d659db1",
+    "balance": 917.846031574348,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x915c9f599fca4b7aea3ee58a8e9bab9b0fdabb73",
+    "balance": 6207.02,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x91a40af2dc147397163e1a8e8f283d18b6f2d130",
+    "balance": 483.22,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x91e0e3519f3205f11d604596643fc97eddb27662",
+    "balance": 3480.39089349525,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x91f6b278c220de5e6b36012116e2fbecd30bb618",
+    "balance": 61152.6795782128,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x92228ffb485fe39e5479837e0697829504527fdf",
+    "balance": 100463.892557775,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9247754182b7a517b3d9ac265de7177d07b7b5b6",
+    "balance": 0.864329838673518,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x926062a937a5629c59d4373f7d3d8b354c011540",
+    "balance": 380,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x92e17106f2b52ccfcb5bd6c71a2cd33746709b38",
+    "balance": 30052.7551145694,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9303a1ab806caaf8b62d12f50a4d25d7f8ced589",
+    "balance": 4079.14306188146,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x931c3236fad3c1d42bfc2354c5719bc676f354f1",
+    "balance": 4284.90852753264,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x93623ba07c49ac9d93755f56bb5facbebcafaa18",
+    "balance": 1697.62119525488,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x939f4b8fbf7a3ca337ab11d4aa64ca7c4dbb9754",
+    "balance": 190,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x93bafb172a7c0b1fa40ad59507ff83bf92563735",
+    "balance": 10292.8697931716,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x93c258906d6e78faab88b80aa1e2cc13fa932a00",
+    "balance": 200,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x93f9d89853eae66af25359557456317eb866b3bc",
+    "balance": 88727.0950693976,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9454f17a6bcc36cfbc8a07011b33dafcebe4050b",
+    "balance": 0.851283812738896,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x94b51bc877787198d0d6d0dffe878477c3602746",
+    "balance": 14524.6793034791,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x94b6dcf72ecaae9ce0f2a00188e26f5391993e94",
+    "balance": 41377.940514563,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x94b8b68ad4c673355378a575f203dcfda21e16e1",
+    "balance": 25001000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x94cbd12ea59cdefdf0133937c6329be876a59f11",
+    "balance": 996,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x94d9c6c1c417d9083bd0212c2df5863470c4199a",
+    "balance": 400.08,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x952039e455a0e242716b2e579475a83ccbef5ca6",
+    "balance": 880.15,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x953f843c2d44cff1bb0d0857ae4c6e9e59ac79d5",
+    "balance": 50000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x954075a0c4fb9a67e74767073483965dabcbf0ef",
+    "balance": 1130.6,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9544caafea7c5445f6b7ea98ae4b1aea073b41c1",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9549a90b81b430ac1c125dec1e35026a4fddc708",
+    "balance": 7150.35,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x954fc49b907f34e03ee0938ba8e26db14a47d886",
+    "balance": 3121.340751,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x95ab8f655796304f980387384d16b709d5cc0f3f",
+    "balance": 42427.55,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x95c3f3f5f805e604462dfd51fbea5330f5963b35",
+    "balance": 6979.39141017986,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x95c9015d1f675fbe21ac6f8605d4d12d48351286",
+    "balance": 200,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x95f880e76e08a89c32668c701a60087d79c1a12a",
+    "balance": 6377.36,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x96c195f6643a3d797cb90cb6ba0ae2776d51b5f3",
+    "balance": 57.0498086433113,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x96c4ab4872549d556f3f9a31c189b7d86796f983",
+    "balance": 39.5899416038475,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x96e7d5ac9e0b0b7d12bd6ce1326df8d48afae423",
+    "balance": 4333.29469436049,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9711838180b9effda66ee53e654eda788b582e74",
+    "balance": 2000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x97609fb0f816d880016be079d20533f7a8b57150",
+    "balance": 37.9630695525808,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x97798a19a8e361a8b3b4c4a3dae813135a4ede81",
+    "balance": 1010,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x97988d23302452730e7951aabf1a573ec88070ec",
+    "balance": 8371.74795465669,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x97cae6604d273f3d0ed98758db9a922bf500df17",
+    "balance": 13676.06,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x98468c0e9342d4e0ac3e09257251fab192992092",
+    "balance": 2684.54098250125,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x98b5c53f92377fca7ea9268532c2665ba67853db",
+    "balance": 260,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9993b8c14d0fff61f14d6bd803d5fbc998b37ea5",
+    "balance": 34,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9a0b2a006c1c9e1978cbc3507b219bbb2c227048",
+    "balance": 103.740774500695,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9a21b978dfcbd2fee2113918e43bc5c1ea6e3ad7",
+    "balance": 73410.8204881371,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9a276793ec483f44964df7fa2bf7e0f3600346d6",
+    "balance": 497.330699096581,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9a754bf12b37acdb90fc1b56c7a863345701a1c7",
+    "balance": 6231.3505202996,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9b00f797ca356e2dc9a7a01d841c44056cdd2a91",
+    "balance": 2023.88051165,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9b2d8a74d21bd4c4ed324e785c68a25a1148b9ba",
+    "balance": 6053.98,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9b8415de85cd3378ea586aa718d510cfd832eb46",
+    "balance": 181394.434674989,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9c69dcd15fb57aa0db5580a783e7af58a8cedc7d",
+    "balance": 12141.80935115,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9d47effff11ab5cba4dcc31f6807323c78b015b8",
+    "balance": 11607.03,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9d5056780298c2f6b7c2518cf0c81898f436e562",
+    "balance": 20,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9d878a765a6e77ce599f6fa8736eae65dd04ba29",
+    "balance": 49210.63,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9d8a6dcf24e92d8e18f7779788bb2d7def0a14e4",
+    "balance": 2.06538002245392,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9e3781496917f5fedab2d4ecd5c7b1047c8de1bc",
+    "balance": 21042.6381715487,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9e4714eee659e7e16ff18200b8b8494e1ebfe8ac",
+    "balance": 9463.6,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9ea9dbaf5a85cf00013073e39e1052b4799cbf7a",
+    "balance": 5678.93,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9eaaeab7255296e68ad1f12b969b9e30d1806c9d",
+    "balance": 1500,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9ef7546ae9e7f26151a90ed7cace681453c110ff",
+    "balance": 290.06761998,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9f2bf2640ece1d52d8167db6380cc21ab36a7436",
+    "balance": 3430.63711713122,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9f3a7643c49d3862f2d613e988cb218473165bb5",
+    "balance": 2458.57973666841,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9f79bfd920d06fb536d0f8010ab7d6d38ff57f11",
+    "balance": 10132.64,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9fbcc72f1f73de32d62dcf6b3ca06f057b56632e",
+    "balance": 475.944211768205,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9fceb1b37bd267204d18932ca44a16d3945c4839",
+    "balance": 299981.053956573,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9fefc76d5a0a26bc8031fb78ce164c43928cebb3",
+    "balance": 2183,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0x9ff93ec8ba24720715e34ac8cb7861ff334da834",
+    "balance": 18466.7126169349,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa00c7c56ae6619bbb9b470db6b2290d038bd5de1",
+    "balance": 150,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa1015887db8b0a0f9b396e1707192550ae19b340",
+    "balance": 1.48,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa140d002203216320edfdb990ebc83a1cdbf08b4",
+    "balance": 0.000050645589755806,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa155f50a9cc4bcd530028ac5bf096d6d9b112b68",
+    "balance": 162273.631156385,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa1f6256523ae016975931471fd8b7724774c393f",
+    "balance": 9996,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa2508882177ac0def73ccd3bf9d8066bf8c22455",
+    "balance": 1900,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa2906940a26951896276b6509b58814b0aa52450",
+    "balance": 96268.0664637499,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa2a14fe1bc0da415476d2e3f3feaa9dfb5902185",
+    "balance": 163119.368000821,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa3060620be8408654c600826b7b91f6d5278047b",
+    "balance": 1782.57,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa39939f7569d68e4942197b3b9aa0689737e9c6e",
+    "balance": 3717.99050063433,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa3a87ffcbb5aa13a78b075a6d3f6b8bd39863367",
+    "balance": 485.212543525768,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa3f8ad71a6ed01a102035dc2fe775413d1d96cfc",
+    "balance": 30855.2011884506,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa40b96cd985a62c7d1af36439be199882d9ddd9d",
+    "balance": 3893.97,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa4196d94f5dd58eb5e1f178081dced280eb773b3",
+    "balance": 6000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa467ce2f99f084d857cc8955514ae247efefb964",
+    "balance": 2700,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa48cbfb23bd116cff8461886664365fdfef2e24d",
+    "balance": 18.8682092968393,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa4fa6487f91641e846f1748770f3574375a8c41d",
+    "balance": 70.1198727889569,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa55c80c326e0de874e4e198491615f71e9cefcbe",
+    "balance": 1298.77836737174,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa57faf133b50f39aab781319aa52405c2af24845",
+    "balance": 11874.68,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa5d0b54c7144b7bdf1a8c1b3782e90437c384a0a",
+    "balance": 5345.43702358,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa5dd2e7d4eadcfde3fe3725559fc07675b80bec8",
+    "balance": 500,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa622432e280cb88ec54543e2b8c33d26329dcd06",
+    "balance": 6311.50708862794,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa62742cf4a3e9de137a8b18548f9744b77b16c61",
+    "balance": 3750.79,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa6718b159a5b85e11c6160f844413343e4818eea",
+    "balance": 706.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa67ac267cdad43feda59c3d1c2c0b7811b4cd000",
+    "balance": 1175.15670428396,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa6a1a9946d738217cfc194b98debded1374b8053",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa6a98a09f53a074926242009e90290013a44b7a4",
+    "balance": 1032.56447871649,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa6dd8110dbca7d3ca507ba2eb85971c9391b2d4f",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa708b703c260b93d258507e441d42ea5ef6e62b9",
+    "balance": 1024.43,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa7423b2a6303c6a02e36efd29dcd84d68a3fd9b8",
+    "balance": 25,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa7a85f444bcb8f32c777b0aa22438262d8f9f3ef",
+    "balance": 1.25895389,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa7d90a0211ef56a8a9b6ca13016b8419a547d4d6",
+    "balance": 76864.3798944348,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa7f8c781b1df4bc49a2f3cbff3399437c42f5466",
+    "balance": 242.68,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa803e7d7eac4308e0ca4dbc6b02db845b048a6d9",
+    "balance": 110.325914633139,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa8190ae92ea69518f0d29d5af5e8773766484555",
+    "balance": 12,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa81ebbf718f5848146d10831a57772ec10416f60",
+    "balance": 1e-18,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa83365f66d982156a5857977e6aebcab4c30edbe",
+    "balance": 0.435976753712827,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa83a6831aa4d50f003dc050a7d3ba95a48cc56b2",
+    "balance": 1266.36,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa8437cb67473d7d6b21df440bb91c0769acbdf37",
+    "balance": 4183.65984814079,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa8f3a004492de93ebd0f8aae56f990cdd316c5a0",
+    "balance": 1570.76,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa95519873b30dd91a57a98a9bc2ffb8e5f3bbc73",
+    "balance": 1514.08,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa99efef963152ea62ab2ed534e0022c683a6753a",
+    "balance": 120.261400810104,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xa9ed1e492864759e3a650b4406654e23fefbcdc0",
+    "balance": 1023.99888259699,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xaa207cd9e4e8a99f5397a43349d5d27adb483bbc",
+    "balance": 2,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xaa56d4b5d5dc6b0f8e46c2d79a5b8537c4c858d9",
+    "balance": 10000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xaa74f9df7664e66783eca091f93dde27b233b58b",
+    "balance": 70000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xaa7f0d9bc370b35b4c348f30b733b19d817c4cc3",
+    "balance": 2001,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xab1f8b223bf6dccece8818fb78c6052b4d1a2172",
+    "balance": 70276.5486010603,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xab9c7f3311cce115517875c635ca07c84c665cb9",
+    "balance": 1000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xabd94b06b266b3a58f72a45c6e258772765a0989",
+    "balance": 13737.8999898,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xac3aae2acaa340abd3e7f595c0ed51811532b789",
+    "balance": 2124.07393778821,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xac57c7e04a23eef0402aaad25e452dbc0e969973",
+    "balance": 29548.3299384205,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xac780fde1ecc72096f10bdb1b23d60f1440a0fdc",
+    "balance": 550,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xacd4e650db7c6dee888e0a11872671fe9afb4c4d",
+    "balance": 75959.2386057783,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xacdda114da3cc592a6b727abc2bf11dded2e4150",
+    "balance": 37.5022034057669,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xad190d856ea1aab0521a2404e4afa0f649df1efa",
+    "balance": 4826.15468863196,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xad42090c8b8cbcc37e38363aed3678e18f24b34c",
+    "balance": 1464.4,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xad85d1823111e3534626420baf80ebf161444531",
+    "balance": 3048.48022915562,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xad8690ad0a7a3ee44bb244310ef955b69c54083c",
+    "balance": 3033.43,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xae26af40f33f36b255fcfeb3675eb2e592dd1978",
+    "balance": 9989.15,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xae786567c42520913a883e7845435e9c4a0a84c6",
+    "balance": 38919.2151521914,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xaf09e19f0bec146d80fdc9943be3dcb264a5f7a2",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xaf3cba447eea6f59b8b9745611936f0d55390f87",
+    "balance": 331.39,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xaf802a164051d01a9117468f4db3c6b20a602692",
+    "balance": 31529.75,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xaf9a62bec673d90339b9c8c780176003235cb3ea",
+    "balance": 124.024189567358,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb01a9a7ef5779fa8680898827cc2b1aed638ee2d",
+    "balance": 38.859,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb082e500faecb492e87f0176b38c2626a185ddd7",
+    "balance": 969127.963418319,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb0aa9d9d3158ef0b1c3c53f9db76b4186ac2e380",
+    "balance": 920.89,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb0cde64f874cc977dd022a197680dbf908274fac",
+    "balance": 20000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb0e3a1a88cb9974148ec00d0ff738b717b0ba79f",
+    "balance": 5965.36535341091,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb0e4d00cf305fb26fc531a49661b8b7a885c6471",
+    "balance": 59281.38732496,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb14441fda383421741ed536cece25db0a8c8915a",
+    "balance": 2978.86,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb1fe3625a1e9e8502d756d77394125217beb624d",
+    "balance": 11699.1843129749,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb23669cc7a6ef4ee7cf00a68cce440438f9465cd",
+    "balance": 315.986107915057,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb2c1857fd667301d1180179dc00d6027b29f0b82",
+    "balance": 995730.978872339,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb2d3a95d7695e9a03c6fe6789ff40d0837f13cfb",
+    "balance": 871.504943403814,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb2d532c47304ba2366797467e922cd31072a061c",
+    "balance": 908.14978956348,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb2fb46ee6b1173605aac4c21154cc8b5a798c68d",
+    "balance": 66738.7284698799,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb33ddd658eb1a2cea749d6f66688d84bc492b83a",
+    "balance": 695.885129229251,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb37565a8efe53be5dcac40aee71d48d49a63b5f2",
+    "balance": 11727.1731613179,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb3ec07baeb3ff02c8f29afbf9c53f2f5954a2e01",
+    "balance": 52.6810401006564,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb414608f76dd0a4cad75fa0b04746408fb885de8",
+    "balance": 1e-18,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb42e51c9436e333f3f525b9677059edb35f04023",
+    "balance": 1876.21,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb5018d9e9c722ecd9c27050fbc2a2f67b29d3b18",
+    "balance": 2753.86,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb52c7eca9103df05086f3e469b8b45d130a6d71b",
+    "balance": 3094549.76309378,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb59e46785d53a2029f985277041cecc3c4b905bf",
+    "balance": 2399.88193149407,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb5c726592094abb7f3815d7ca23c9bba5d9c35f1",
+    "balance": 5472.34262010745,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb608410f3464dd671dd8282769b9f16c0d961f1e",
+    "balance": 819,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb6e86aedc1f88fbf5f95c64934c18846dd088cdc",
+    "balance": 10315.2076237856,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb768f4ca02e1278da8018d7845c4d815b853b759",
+    "balance": 154.752486813738,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb7f63b2ea0fe87a9839aea73c97fcbe3a2b22522",
+    "balance": 4429.92004562476,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb8121f218f1b9814abeae4748f4b1066e83c3640",
+    "balance": 5669.35700011045,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb829ed10f8f363eaf5d72244d6ea07a2f9d741ff",
+    "balance": 670372.360502279,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb8641f42f2b25466fccd769bf2a047c741d870ee",
+    "balance": 37.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb86c1e53462cc87feb60a3a5623cfb33f10c2d4d",
+    "balance": 11313.16,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb870494fc1da3bf4e07e651d97de0b296a1f1b76",
+    "balance": 603.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb8a40d97a5e5e2353bd379c090a76714ee609781",
+    "balance": 3737.46249363924,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb97fb4c6f27eb290938d47056fc60b7aae66ebfe",
+    "balance": 91913.1369249655,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb98b2392dff832d23933a612218b385b229aded2",
+    "balance": 100000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb9a95f4ffedc83aff2ba30940f4a681970d4f034",
+    "balance": 31462.849521324,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xb9d3d27b754eb148481be4d920573687d87916de",
+    "balance": 2746.29,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xba1d9db79a0fd7dbb978095d21a7879f3913652d",
+    "balance": 35302.402154978,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xba2ef5189b762bd4c9e7f0b50fbbab65193935e8",
+    "balance": 847.148940224694,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbb150bc7f3ba780553abaefd0421482d0a9cb53a",
+    "balance": 2997.94102507889,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbb3d79bcfb5b41b6250668bec5624bd1c99bfb6c",
+    "balance": 5726229.11987393,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbb5d100af098c5036112fc70e8639c74193b0486",
+    "balance": 6000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbb63203fa253b667f1d8d591954f5a14ba5613e2",
+    "balance": 2961.87185121236,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbb655b2f86e5121af752e66aeb635ef2a145633f",
+    "balance": 6892.85,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbba7e07ad1548be9b0a33051f0fc817834f939f6",
+    "balance": 35.5186570317845,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbbb33d2e7bd7ddc722e53da9ca8ee97df41cfabf",
+    "balance": 1818162.74348554,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbca036df1c9d5edab04092b4b24ecc6cae0b4846",
+    "balance": 1006.85721372138,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbce62d555b2e886183605a7f8089f8b6dacb50d1",
+    "balance": 1040.22,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbd41e1f9c555e226673d277bf4b1bdac3e8d649f",
+    "balance": 194377.233967054,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbd5fe74f3bf4bf9c885d7c7ce44066a64eaca2b0",
+    "balance": 2973.90978442819,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbd94c53a962e1939b7ab30f0784980dbc11f9e05",
+    "balance": 9237.85621476502,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbdb2a5ff69d2710b3a98062472d2a9900772177c",
+    "balance": 652.960705749643,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbdbdf31aa2ea3e111e62bac7baebae2ed07e82a7",
+    "balance": 7009.8406778872,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbdfc39b1a28c7737df7bdb29b6114eecafd1ca93",
+    "balance": 193049.21418748,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbe2be2f24b036b7a780071331b12f9e115b6706f",
+    "balance": 10279.8279355447,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbeb3ca902ac2783d7dab6c8c117ff66e086b5eb9",
+    "balance": 1.64435792172344,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbebf047885588d223d353fb5fccaaa5c3ce23754",
+    "balance": 300000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbedcf228cfb46ab8ccc34c2d771756a558b96771",
+    "balance": 261133.758601841,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbefed3d180b5b4c34c05bec8836b44480a663594",
+    "balance": 38.2100591790375,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbf300aa3fdf6c9d7a12004037117b40d56802e04",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbf494b078433bd33c2817f5e5e6ee49f7a1bb030",
+    "balance": 12986.6862311332,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbf6bff63f8e6c8e1d89bafa7f7bbea5ae3b83b47",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xbff2afd145a575255782ff4473084341c4fb9b1b",
+    "balance": 581143.476653873,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc02fda6f2f47396d3477446b9950d65158db388d",
+    "balance": 398.456140038965,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc05c69e4e9d437f8e381784345cb9835e861fc59",
+    "balance": 4505.72,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc0731738dabc713e4ddf0dd9f3e8a64d9dedbe94",
+    "balance": 1000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc0a8bb2b0dbeec30a0cb7a710d0d28d10dce5622",
+    "balance": 111,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc0b6e3b88609cfea3da7df3e6125c4e4250e58d3",
+    "balance": 937.13,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc12f88f1ffd3656c8e62861fb1ec72c34bdbca01",
+    "balance": 15,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc15e0b4950485c12062f4b8371e7f7cf0d73078b",
+    "balance": 3563,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc22f66fdbfa2b4fb8602ba00330f78ce474464ac",
+    "balance": 10089.32,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc230fa7ab534576ce2e88f850fcab7ae5237dfc6",
+    "balance": 13.6963432420005,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc244d5096d3850196510a4043db485fe079df2df",
+    "balance": 4181.12,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc25a97931ccde0a82d82fb3c106a7505e773c144",
+    "balance": 44040.6029454942,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc2a583f308c37bc8986cfa64a95494409a00bc87",
+    "balance": 164305.035100296,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc2b2029b3ec9b0b70a581794f8d643afc27568be",
+    "balance": 68.6935344997571,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc2c77b4290928995555bd508fc84da2805ec04a4",
+    "balance": 68600.6274265567,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc314d415b0e0fc0dc0e9e48f346a102c57f1dd8d",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc31ea22765bfb9ab7cb9e6f089b062c570bec1ab",
+    "balance": 3321.33551112,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc35d51b9bce581970d022531dbe29edf2d6f714d",
+    "balance": 8772.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc3bb1768fdc063593ca7a869dae7dcc0cf012bdd",
+    "balance": 386555.52754464,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc3ed92cc49921c6b2ca43b54893c9194b118debd",
+    "balance": 52.5934452205347,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc422fa9710e81c6022fe27b49dd2ef25bc62dfb8",
+    "balance": 1124.95463750932,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc422fb1d930c8a3d37baa616d32dcb1a055c4167",
+    "balance": 80,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc42422f4413b4c386b5d28cfef85df051db61ca5",
+    "balance": 363494.741181304,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc4e3840df747d1fd7a216ececf264d231bdf2dfb",
+    "balance": 4000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc4e51b41fc15dc54ff0ec09c53c4e2cfc2a0c221",
+    "balance": 1736,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc51d31dbf01505fffbe28fcf2c646ba3b8173817",
+    "balance": 12158.0487678303,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc540f44f092b86b620fbbeb4a3c04f6e951e7109",
+    "balance": 756.132502728506,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc6073adc13ea2adf9b02b025010f908fad6f0db8",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc65dbdd089cdd16be1097a1e9835afb6d3befa89",
+    "balance": 10428.5035966327,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc687661a31f687d3484284f3567cff9b7fc28b89",
+    "balance": 581,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc744fd0c71e1a5223effac48a4a643f3d54d1cca",
+    "balance": 238.35,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc7c577ccb85f2fb504a5b3bc24e5fb257bb0eccd",
+    "balance": 15000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc84fbcbbabff5791edecf39782aac4c2013c7fbe",
+    "balance": 12.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc851615780cf28b14654288f21b9989463d11207",
+    "balance": 14234.9255047411,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc88883fd2255f97ffeeb29c3a675d3d6f4232696",
+    "balance": 2000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc90ceedfc452d65a49bdec1c7ac16b078a7b5d08",
+    "balance": 10025.9781395,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xc982dec7ef824b42b11f5e59d3cd7c5ed9b5937b",
+    "balance": 107,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xca568c21ebe36d381f295be10f5e8920a0c2d5df",
+    "balance": 25811.86,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xca8dce891c141a896137ef074021584e22b91cc1",
+    "balance": 1221.14,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcac1b0190cda35040c72ad4c4d88b697fa2721c1",
+    "balance": 22621.7887448218,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcb6926840b1b6b0f3716d5c852f3cf62e45af4ec",
+    "balance": 511248.889284511,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcb71eb21f53a2f4de0f26dc90518df10be13d1ec",
+    "balance": 186.826764868543,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcb7fd3f6f3f64e4d62545a454ffe2a156a9f37be",
+    "balance": 1e-18,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcba62469d4450e83fa8a030f753d88b3c0017463",
+    "balance": 0.233890101677378,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcc270c1b044cbc3c67eb37379733cce66112b7b4",
+    "balance": 382.62,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xccec1e77abf728f75d23b971061291e8ca1b8bf4",
+    "balance": 3.76688457154968,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcd5b38549139e4cf0d9322c4f1c802f89901227b",
+    "balance": 1501333.54659278,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcd66d624f803efc0e2ebaa19bfe3c0c8f8431ebe",
+    "balance": 33.9444562501445,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcd9c4ad718ecea5df5a46324b11e74cef7575c52",
+    "balance": 186.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xce07e09e0df30adf5f545bd83f3ae036d013c727",
+    "balance": 11045.83243559,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xce24664211336208a9952e51af1c027e54e0fda1",
+    "balance": 30.6586202576933,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xce37f1ab4f5148c0ac3efefa761457e8ca2b39ad",
+    "balance": 416.545453671713,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xce386f76f15c39c4c4a8f405e4ec74345fe809b7",
+    "balance": 2342400.61629895,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xce55977e7b33e4e5534bd370ee31504fc7ac9adc",
+    "balance": 888997.266748717,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcebd1250bb1cfc27955fcff600861c2f46a35399",
+    "balance": 145.59,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcee2748919616a854bccb9817e7fb6ab67a30eb9",
+    "balance": 1191.99537829941,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcee75ec16f202e541148e65e813bc128d9c5d3c6",
+    "balance": 23669.6,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcefe57a6d77d24c75b1ba883d8bcaf62d8dd38b6",
+    "balance": 2438517.01314738,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcf3913a58606f92bf32bda3d588adb9e3c235ae0",
+    "balance": 1,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcf640abcbe52a99aeb6bd44604be653547d3a15b",
+    "balance": 201.397632657682,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcf652fe489df7a7960b794624ec0c1268b38e466",
+    "balance": 110,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcf716fd6e9da1898d1f0828a77508a125e31eb40",
+    "balance": 182,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcf7b74ddf636540850a8fe7dbab0526d7bf09bdc",
+    "balance": 63453.0869009084,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xcfdb0e4e198d1094b9d7f3c60fa94fe1d0b9ec9d",
+    "balance": 307.73,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd01622fb8b8807168ccee5bdda119094d4c5088c",
+    "balance": 32844.04,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd04444ad7c6de21e81535f56dce84e292ba1538d",
+    "balance": 2895.95,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd0a8bbb28dbb2412497f5c763a59c81adb607150",
+    "balance": 102.336783496569,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd1093cdf203ebcc85cefd494b7422d9fd56cf0b6",
+    "balance": 18767200.6837329,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd1352770a64cb102e28dba4da9eb3f7fac2111ca",
+    "balance": 18686430.8333552,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd16409746ca99a04fe76848c4da0ca9904e799af",
+    "balance": 23.1221658,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd18c285dd7951307f51b0e81d64f69e8ade02c0e",
+    "balance": 20000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd1c63852b3f6324f335cd02cb016b7f3a243b613",
+    "balance": 3656.37174299967,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd2111ec7a270a46e1491ceda889f5bdb7a4002ee",
+    "balance": 2560.81,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd2c6fb113d64580d7ddb2ebf363525e1e52dd5b4",
+    "balance": 26291.16,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd3de3535633586052f76c9fe9f4f838d24eb6216",
+    "balance": 320.051885183773,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd460c6cf704e4a748dc0c05a6ccd26183e567ba6",
+    "balance": 5446.71,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd4bc4c8d715689f8e026b11529242feaaa5a9b79",
+    "balance": 34681.235813734,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd4c3edf4ee43bbf6d8216be1f5b1ce88ad2eaaba",
+    "balance": 5428.77263637896,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd4c6d1dfc73ef806873e0336edd6054e6804f481",
+    "balance": 23000.36904594,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd537c1e6ea50c257a0af2ccc0c366d54a0dbfbd3",
+    "balance": 112.609215215272,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd58d131987d001210c04e5b100ff682aa19c1989",
+    "balance": 2173381.5975672,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd59f0eb1256326bc00c7c83ec5399925f3cf4a04",
+    "balance": 1003.45,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd6017a10a6724cb4c4969e2362d3c8c9c0f072bc",
+    "balance": 44094.4817625752,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd657d64eaf9387ad3829163e93b0caa98d29f826",
+    "balance": 217.4053309745,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd6c3ab79fb514b69bb5de2db10b3dd61d9f552ce",
+    "balance": 1e-18,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd7247c34f0d655c9722e13abaa34d939d512e247",
+    "balance": 21814.1804190176,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd76b025f9b36194be6b5b98326efbd6bfd1e1165",
+    "balance": 17519.7383818128,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd77bf3998f18038a12f4577c225d868498c0708d",
+    "balance": 100157.47,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd79fbaa2e971322b5a740f1734eaaa1ca19fe75b",
+    "balance": 2.78482022382638,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd7ac0d3e6ca37f8c8ddd7081d6b0bd82bee3ffc3",
+    "balance": 9433.56377893064,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd7b39eeb1b38f1b56fd0c635019f397524b57fda",
+    "balance": 989251.854226675,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd84e7375f84adcee609e655ab79d0316e5257cef",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd8c495489a24ed8497a9062c7f3de34bc7187c0b",
+    "balance": 689.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd8f27e3e7da60d8cf43b76e335412369fed96295",
+    "balance": 250317.361889688,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd937f922233e2b2edf492805b3214de0e8f60622",
+    "balance": 38.3296683328751,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd965952823153e5cbc611be87e8322cfc329f056",
+    "balance": 950258.80378317,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd9b7c10257a41b2d0641e966d6ab90f430bb0111",
+    "balance": 5348.07,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd9c53a8c43c3c118cac29e59fadb2a56cfb9309d",
+    "balance": 314.431670594867,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xd9e40461dfee40a123dfe7dd06c31b6767e9fc7f",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xda225e8ed36a475bcc91ddd4c536f8c78dbba1a2",
+    "balance": 0.000033462522225164,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdad1971fe99b115fa6e357c4de78ebacb623e23b",
+    "balance": 45653.0835868645,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdae4054f86b51e5b76611e2bc2a1cdecbaf2d424",
+    "balance": 255.593062553153,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdb306f55fb8a39377e459ee5720aa7e7da47b6a2",
+    "balance": 989.090608465608,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdb7ba59c6508b656ff1d2c3bfd377e528e1abc40",
+    "balance": 256703.288250738,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdb9d5a4b76cbba1e4f495ccd1dea9c5aedb506ac",
+    "balance": 3500,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdbbb3851070709bc88845ae9d20c25a9712f468b",
+    "balance": 41429.30468129,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdbc2a2c9e98ba5b43af0d938a4695c56fc827142",
+    "balance": 55832.7423880058,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdbda103dc6d1ce2c0a39cf35804d63dd1c395e48",
+    "balance": 13401.0478350814,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdc09c650172cc214168e50d8779421c38de0f818",
+    "balance": 1574.05,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdc1ec5543c610773070a7cc53463de135194ac34",
+    "balance": 11102.33,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdc41f5b32bfffdb54d7895e91824eb11e44be54d",
+    "balance": 321.689570012896,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdc75a87000e14cb9553c73c619ee12599a471e95",
+    "balance": 60391.5406905683,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdc85c6edd13e944b8da5deaca06fe1cf1e08f8c9",
+    "balance": 11677.78,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdc9a2ec181f287c7acc6ffb4abdf5ba5109d9e07",
+    "balance": 4773.83345292792,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdcc1e5bcf58496f68eeb3e651430c85b38d82042",
+    "balance": 4129.51017136465,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdce13f0395a117641dde42206777cd342c5f0ff6",
+    "balance": 1000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdd471e5b25b5efa6eaf96f83d9dfbdc6de4ea282",
+    "balance": 9418097.68133665,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdd8a8ccbb4513288ddf9aa30758a8d1275738c8c",
+    "balance": 950,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdd8b54fd232d1ac4b6bdeb38b05c397155a95510",
+    "balance": 136.86030666256,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdede177517d1cb03c42428ecb7c6741c29fa469f",
+    "balance": 250,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdef91d3cc98b08e607afad18736c04cc538d0d3d",
+    "balance": 10,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdf1ca8a26b733b31f4fbabb8633eb863532c9722",
+    "balance": 2173.16147930168,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdf73c5d25b3ad2d6a40f59600d539d6e4df0fdbe",
+    "balance": 3051.31,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdf79ee158046602633b8a25b9e8487f48dc2f417",
+    "balance": 5852.79970933948,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdf7aeebb75fb1209546877a797e54e0065d06f52",
+    "balance": 54403,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdf885fe25c42e6016e68c8c8848eaf47e6ff5d86",
+    "balance": 796.27,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xdf922a8346917041e4daef61ab8393bdcfb8f3c6",
+    "balance": 7076.05486,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe03735e07768d286b9c562453aaea6c8852f5e1e",
+    "balance": 7052.58971451826,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe07d1310ca5cea9c8fdbc7b0ed3a61a456b4df98",
+    "balance": 357401.397729175,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe09a1fbe9b673e7aaf6cf637051bd707c5a70442",
+    "balance": 59.032638748548,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe0a986ec73db007418e1381150db8a507be7ae8d",
+    "balance": 358.024990631216,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe1018989c3c476a9cb2ee073f48445f655c92ada",
+    "balance": 2740,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe12c17bf28684f28c3a815f9d8a3492c2c9adde4",
+    "balance": 1791,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe14cffd29d05d56a7ec46c689fe1d3e1db7590ec",
+    "balance": 4822.25,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe1be572658a8a6ebe0e5e166c698f40a1cbbeab0",
+    "balance": 290.79,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe1f4b6ddf0b6222de3019d796ba826abdbd78f35",
+    "balance": 29242.2230050588,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe1fde3984045f31bc6c9bbc8a2eb4b52aefacf71",
+    "balance": 6274.1417213747,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe207f830fbd72497bc8a09d36ef8a64e94c643f9",
+    "balance": 3989,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe2813a95d94e6a48a49d49ba0e53da94cbf722c5",
+    "balance": 1100,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe29e5bd4bc195708e8424f1c855e56a36a258ae8",
+    "balance": 12958.9029902303,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe30e6d607f49a11af5c69f423f9fe26d60e1fed0",
+    "balance": 37.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe33d71fae5f9263e4ba5c29df1a641de06b41e8e",
+    "balance": 270771.038101864,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe3409f9b0b9129c996780706ff9721a65d4e28ac",
+    "balance": 9663.73,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe347d09a98e5527c2db0d6f4bc3e77340333493f",
+    "balance": 4470.47,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe3a957ccebc77bbaa108f245d581d0944161e1a4",
+    "balance": 3280.4694178642,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe3b8832145af5a124e9a74f16d3b027f1f05916f",
+    "balance": 899.260694668719,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe44f702aa822ef2bd7b6d4e11eed4c5583289f3d",
+    "balance": 26,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe56bb88d9be149e68397f9a7029ebace9814d469",
+    "balance": 74641.1021907269,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe578066339e52d634de1230f7d9062a5eb452acf",
+    "balance": 0.262453135700357,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe5a037b6f78b25bb60638b2a6caa73fe8ad5fe26",
+    "balance": 43727.8404772182,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe614dfe3b470c7033d6eea2c9e46c7c5371bd4ac",
+    "balance": 203977.579619804,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe6796ee9d30e5519c9aa3f2ec19bfa443efab362",
+    "balance": 1000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe685e6cf844438901496115751d18b952944189e",
+    "balance": 1482,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe697e06dcdc10148a07e3f0b95198649aa3727aa",
+    "balance": 3059.58456,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe7106e57f771189f13ae5cea691be53ab60defec",
+    "balance": 3453.32,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe76f431d2a33527e2cb6775edc2ada4ca7509efa",
+    "balance": 111.916346341235,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe776c671f48f5135a7c0e1bb736f7c6b4131e6ff",
+    "balance": 0.0293179129129939,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe78ccd17bcb8744f2d364ab10c1246915d899fab",
+    "balance": 2672.6,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe798dabfb6209bcf92340016b7d9e3b7020af405",
+    "balance": 2037.70057557479,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe7d35f7ffcb0e69581b43fd874c682d05cabb933",
+    "balance": 30716.622220753,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe7e5878c9c42ac0baa1aa5d94cfd4faad01d2f10",
+    "balance": 236391.148976717,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe82294b81a7f9d3d8198b631fc166be2278ebada",
+    "balance": 37260.2492640495,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe82fcf6da51037f341f2dc6ed94727b22be4d4a8",
+    "balance": 108.0496,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe84da9f30de00491076a443c7c3980d69a71a491",
+    "balance": 7619.06511175334,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe87c4168b50f1307eca7f28684a7c3ed37163420",
+    "balance": 543419.324398548,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe8b2da5cca2f1fb57e583381af67e9a65f30906c",
+    "balance": 359784.144172352,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe8e3a9249857cff61e6b4a900b98de936ce3d4c2",
+    "balance": 1990.61,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe93e66b3e10d724bca317cf85607785ba3b9bc9a",
+    "balance": 74.9116185222237,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe96166c0ad15edbbf17dfff7132c30559b850269",
+    "balance": 17980.21929,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe98b700669e62e1e0ff1ec293ce58847374b9b77",
+    "balance": 279.306338512409,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe9a87533400342bd8f12a707b6ca23cccdd06e2c",
+    "balance": 0.000018975094974358,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe9bcfe083b6e590ad73a7566bc5bd61c7e4dc878",
+    "balance": 4722.33616254458,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xe9eddd14c12cc3fc714d1958e2c027a1fb699329",
+    "balance": 13105.75,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xea015e60e2139dce8ba91befb115673bb09d6f87",
+    "balance": 11157.51426,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xea1fefb988893d0cdf7f31e702714897d9580126",
+    "balance": 37799.4099372739,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xea2a3ba76617bd869cf7662c6b8ee3c1f1969c8a",
+    "balance": 91.8390115461399,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xeb13217fb0f918be08a5b9770e08c271f08ed449",
+    "balance": 17441.4357424763,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xeb1cb02b203a2cba4d107af6ca8713258f963eb6",
+    "balance": 774.282509805216,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xeba156deb8cd2ddedac388628f98c398967fd20d",
+    "balance": 159,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xebe99b38e1ecf9b508027bf932075c9d523771ae",
+    "balance": 218667.113701544,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xebfdaa72e4b6618124e580117c1fcc7800ae4802",
+    "balance": 10941.32,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xec0711026b5366fb52942ff929a9c067cadab164",
+    "balance": 14312.791932783,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xec6376ac61a9ccdbe428e22b577ac6f3215f85f0",
+    "balance": 490.21,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xeca30acfe40ab2bb1a472c29b30dcf3895667986",
+    "balance": 10687,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xecb0bd8845cb0436eeb7ecb190088a1c17990f43",
+    "balance": 16755.08,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xecf9e37fba764e5380a944f21c7f9aea2754ce42",
+    "balance": 1108.59343928,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xed11d9ab07be2e08b59f3e2af76c3b90ff4b0df8",
+    "balance": 1845.8278428,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xed30d06d8a35a078814dd15298fd680f1b6511c5",
+    "balance": 19852.80454408,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xed39aa9ffc5ce8ae5f77095fb23e55b44d46dc06",
+    "balance": 351.1,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xed5d30bb785cdc6c5a3d21c8500d72f7e34a294b",
+    "balance": 500,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xed633a1987ecde5f8edfc6580510dc6e3185b7a8",
+    "balance": 71523.64366794,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xed92540ceb486e171c921eed4cb66c6aa9578b2d",
+    "balance": 90754.1325572171,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xed97e2b7fb473e4a589ceb379ccab8ee53abac49",
+    "balance": 55.6974861962291,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xedded7bdb503fde10bfb865ce32fd57bf9b073d7",
+    "balance": 2568.46307317154,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xee3a863e94490709848540a4b85d42ccc3ad4e82",
+    "balance": 287.36947884271,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xee5e15eb4fb743371409c4ededcc694b782c7bed",
+    "balance": 12.5,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xeeb60c8dc1f2c4384710cca2ec6ed968ec4fd4e2",
+    "balance": 15315.5210908875,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xeeb7b04bda0f533092b91d5de6771289d1260daa",
+    "balance": 8959.138009072,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xeed186cdc60ef39ba75d682e9a0db6afb4bf34ab",
+    "balance": 271850.645307423,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xef0d962b021cf91efad31284ce23b7aa90ca0e35",
+    "balance": 120,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xef3990809c8b5289212c12626db62a3ac3d11005",
+    "balance": 882,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xef9a55d5fc4bb6f8c29d1a7db3b2c516a686ac12",
+    "balance": 3216906.39091172,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xefdd69fe8d3fd689ddd87ff63a291f61641774e0",
+    "balance": 42.1348792913298,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf00030de96851b6937ef19fe122b9f999c677181",
+    "balance": 220920,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf04addc585002735c378b5e51a813513ad8e3b64",
+    "balance": 6491.78,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf05606fd9a22c9f9935e95aa47181f68467f282f",
+    "balance": 10.99999999,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf058eb93808c48c19746eee2350da0a78846eb51",
+    "balance": 3000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf06063e88be3e279efd9773201e0386ba436bc8c",
+    "balance": 1121.16,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf06942032535ed87ddb734ce3421c6ebe7b413ed",
+    "balance": 1068.46017378525,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf0786f3e89f5fb7174b6a19e44345e72a0ecb710",
+    "balance": 650,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf09f83aa6217237541a24f73b5494592d4d27965",
+    "balance": 2000.81,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf0b4652752fabe9908a7ce66fe1991660ce3d5db",
+    "balance": 265306.091314251,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf142b41e009c65370cf1810027ac585ed3ff09ae",
+    "balance": 2331233.32608512,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf1a9a8b34c2d10f757f7ef7efaa237d5156419c7",
+    "balance": 0.0420161832618845,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf1af138f95b89c5f594e11557eda4654f1434807",
+    "balance": 0.756266527802753,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf1b91dd3c5bd978730a1d977f29d5f2b99f7c2eb",
+    "balance": 5770.61,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf22a6502a60b0758a5d7d702990e88086ea14c9b",
+    "balance": 3544.76539902374,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf2bbf185eb71050e54457ad81ed56d19068b19fb",
+    "balance": 100000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf30ac90076ed3b9902e435501e0f3d6e245cfe29",
+    "balance": 20000,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf31930f7dff9d373ac9e85cbe09c52d45733121a",
+    "balance": 65114.9547676369,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf370b5c946d392da6577493f69cf03e2902dceaa",
+    "balance": 17637.39362754,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf375df90f85c4d21667eeed1d19d407bb1151e5a",
+    "balance": 1e-18,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf38b740359d0a7ee22580c91e10083bb1a4988c7",
+    "balance": 104491.931476945,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf41d8641d0fdfddb1a8de999ebfad86d5dc1be16",
+    "balance": 310,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf432151bfa8fb86962622df838c68f3b77fc401f",
+    "balance": 13527.6001496802,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf45ddc16c9d25c478643b32dee59bea6092528ca",
+    "balance": 1672.39,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf5755a559060fac23628ecd0012531dfe908dc89",
+    "balance": 5167.63469455178,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf5b9f3c09dcb5729fe0f2a2d404b73b6ced6071e",
+    "balance": 160084.718627717,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf66fb663b4784a60ab375706a7ead08a6e62b352",
+    "balance": 0.564363347110864,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf67acd99c27bdcd771bfd0bb37a1489b6e4a62e2",
+    "balance": 441.717968410143,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf7955e508431f0361b3e8bcb55ab7e37c1390c84",
+    "balance": 75702.6855617522,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf79cd7b73c86cf051d6e814c4e457081e019f85e",
+    "balance": 1072550.05401853,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf7abbbb3d321821eedce3634fea591336dee84d1",
+    "balance": 0.177600311364918,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf7d0fa517a5244d9e7d00a1f54a114ba2fa150f3",
+    "balance": 45,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf7ecdbca50f1c721ca5c539aa3a12e0c7e11765f",
+    "balance": 3040.60458,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf83fc5e2aa844a5e8185836746391cf71c42dd8c",
+    "balance": 400,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf86fff60ace8ab04340f4518b1c40349396ddf5f",
+    "balance": 1794982.35937691,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf8f09d48002bef6d9ffe7c326ecfadcb98b145c9",
+    "balance": 6.326e-15,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xf96b33f25c1034b47e878be6efe5b4d5e0312ee1",
+    "balance": 689,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfa2c6077cd22f751e6e2008fce9d2379c99f2099",
+    "balance": 100120.184610691,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfa39ec17c1fcea59b52f40f25a06c46d7208c61c",
+    "balance": 700.83,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfa8a8ffa85853b8ba220aa994648a93842352bbb",
+    "balance": 183.839668430436,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfaa6d1bfccc7a178083ff0c7bf9120b54264ccc6",
+    "balance": 31.1238600914484,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfb40932271fc9db9dbf048e80697e2da4aa57250",
+    "balance": 6961.42781778581,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfb92b8dab25ef6134872013803f34870c3f57b12",
+    "balance": 0.000043734063978698,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfbd3c54753a84e448b1dd6d3f0faf775678b6f6a",
+    "balance": 10325.48,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfc8f654967b47c735b951a51fd40dbecc0bcbab5",
+    "balance": 9860.68489266,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfcaf197b077613a222a004b2e2d3dfbbb78f68dd",
+    "balance": 5010,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfcce0464ae339387f714d27357e40d394cbfad5b",
+    "balance": 122.035983093129,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfd63a08ce8e06cfab51bc10525c4d3270328a663",
+    "balance": 12.9769594958075,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfd740227266a2da0ca6a92a5e8583701960fc879",
+    "balance": 4928.93,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfdbf458fe85b107e5aec90bf8f2dd2f334aaa9f7",
+    "balance": 257.332661174699,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfdfe54b93e0172c5d1d4d4be4edfdeab95237451",
+    "balance": 8679.59508997,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfe1f4af1d09d8b324304af6e69da66dd1b9f40c9",
+    "balance": 12940.03,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfe344b847c4ab9eef595d6f5b4105d2e228d35a8",
+    "balance": 0.01922692,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfe351aa6f162f4fb1e6f9529e05cb756dbfdc118",
+    "balance": 7505.38401844282,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfe6c61ac7299619cfbff32a9861f2d89ed941792",
+    "balance": 49.641646984253,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfeb74115ac8a866cbdc0df5e50b6f312fe496ea5",
+    "balance": 1001790.01488328,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xfec3af6358f81f1201fddfc2e554b8e2e8524b10",
+    "balance": 1943.01730971536,
+    "pendingBalanceUpdate": "No"
+  },
+  {
+    "holderAddress": "0xff258d2edfdaf05170e5918a637f682d3422a2a4",
+    "balance": 100,
+    "pendingBalanceUpdate": "No"
+  }
+]
